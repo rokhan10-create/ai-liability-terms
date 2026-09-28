@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Who Answers for the Bot?</title>
+<meta name="description" content="A coded dataset of how consumer-facing companies allocate liability for their own AI: chatbots, shopping and travel agents, and voice ordering.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+body{margin:0;background:#fff;color:#222;font:18px/1.65 "Source Serif 4", Georgia, "Times New Roman", serif;padding-inline:16px}
+a{color:#1a5fb4}
+a:hover{text-decoration:underline}
+h1,h2,.subtitle,.authors,.affil,.venue,.btn,table,.caption,.legend,footer{font-family:"Source Sans 3", "Helvetica Neue", Arial, sans-serif}
+h1{letter-spacing:-.01em}
+.container{max-width:880px;margin:0 auto}
+header{text-align:center;padding-block:56px 24px}
+h1{font-size:2.3rem;line-height:1.2;font-weight:700;margin:0 0 18px}
+.subtitle{font-size:1.2rem;color:#444;margin:0 auto 22px;max-width:680px}
+.authors{font-size:1.2rem;margin:0}
+.affil{font-size:1.05rem;color:#555;margin:2px 0 6px}
+.venue{font-size:.98rem;color:#555;margin:0 0 22px}
+.buttons{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}
+.btn{display:inline-block;background:#363636;color:#fff;text-decoration:none;border-radius:999px;padding:8px 18px;font-size:.95rem}
+.btn.soon{background:#e9e9e9;color:#666;cursor:default}
+.btn.soon small{font-size:.8rem;margin-left:4px}
+section{padding-block:26px}
+h2{font-size:1.6rem;font-weight:700;text-align:center;margin:0 0 18px}
+p{margin:0 0 14px}
+.abstract p{text-align:justify;hyphens:auto}
+.table-wrap{overflow-x:auto;margin:6px 0 10px}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;vertical-align:top;padding:8px 10px;border-bottom:1px solid #ddd}
+thead th{border-bottom:2px solid #333;font-weight:600}
+td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.caption{font-size:.9rem;color:#555;margin:6px 0 0}
+.caption b{color:#222}
+.examples td:nth-child(4){font-style:italic}
+.examples td{min-width:110px}
+.examples td:nth-child(4){min-width:220px}
+ol.method{margin:0 0 14px;padding-left:22px}
+ol.method li{margin-bottom:8px}
+.fig{text-align:center;margin:10px 0 4px}
+.units{display:inline-grid;grid-template-columns:repeat(15,16px);gap:5px}
+.units span{width:16px;height:16px;border:1.5px solid #888;border-radius:2px;box-sizing:border-box}
+.units span.on{background:#1a5fb4;border-color:#1a5fb4}
+.legend{font-size:.9rem;color:#444;display:flex;flex-wrap:wrap;justify-content:center;gap:4px 20px;margin:10px 0 0}
+.legend i{display:inline-block;width:12px;height:12px;border:1.5px solid #888;border-radius:2px;vertical-align:-1px;margin-right:6px;box-sizing:border-box}
+.legend i.on{background:#1a5fb4;border-color:#1a5fb4}
+ul.plain{padding-left:22px;margin:0}
+ul.plain li{margin-bottom:8px}
+pre{background:#f5f5f5;border-radius:6px;padding:14px 16px;overflow-x:auto;font-size:.85rem;line-height:1.5;margin:0}
+footer{border-top:1px solid #ddd;margin-top:20px;padding-block:20px 48px;font-size:.85rem;color:#666;text-align:center}
+footer p{margin:0 0 6px}
+@media (max-width:600px){
+  header{padding-block:36px 16px}
+  h1{font-size:1.75rem}
+  .subtitle,.authors{font-size:1.05rem}
+  .abstract p{text-align:left}
+  .units{grid-template-columns:repeat(10,16px)}
+}
+@page{size:letter;margin:12mm 14mm}
+@media print{
+  html{font-size:10px}
+  body{font-size:10.5px;line-height:1.45;padding:0}
+  .container{max-width:none}
+  header{padding-block:0 4px}
+  .subtitle{margin-bottom:8px}
+  .venue{margin-bottom:0}
+  .units{grid-template-columns:repeat(30,9px);gap:3px}
+  .units span{width:9px;height:9px;border-width:1px}
+  .fig{margin:4px 0 0}
+  pre{padding:6px 10px}
+  footer{margin-top:4px;padding-block:4px 0;font-size:8.5px}
+  footer p{margin:0 0 2px}
+  .table-wrap{overflow:visible}
+  .examples td,.examples td:nth-child(4){min-width:0}
+  section{padding-block:4px}
+  p{margin-bottom:6px}
+  ol.method li,ul.plain li{margin-bottom:3px}
+  header{padding-block:0 6px}
+  h1{font-size:20px;margin-bottom:6px}
+  .buttons{display:none}
+  section{padding-block:6px;break-inside:avoid}
+  h2{font-size:13px;margin-bottom:6px}
+  th,td{padding:3px 6px}
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>Who Answers for the Bot?</h1>
+  <p class="subtitle">A Dataset of How Consumer-Facing Companies Allocate Liability for Their Own AI</p>
+  <p class="authors">Rohail Khan</p>
+  <p class="affil">Bellevue High School</p>
+  <p class="venue">Working paper, 2026</p>
+  <div class="buttons">
+    <span class="btn soon">Paper <small>(coming soon)</small></span>
+    <span class="btn soon">Dataset <small>(early 2027)</small></span>
+    <span class="btn soon">Codebook <small>(early 2027)</small></span>
+  </div>
+</header>
+
+<main>
+<section class="abstract">
+  <h2>Abstract</h2>
+  <p>In <em>Moffatt v. Air Canada</em> (2024 BCCRT 149), a customer relied on an airline chatbot that described a refund policy that did not exist, and the tribunal held the airline responsible for its chatbot's statement. Consumers now get prices, policies and advice from company chatbots every day, usually with no way of knowing whether the company stands behind what its AI says. As people begin sending their own AI agents to shop and book on their behalf, companies are also starting to write terms for those agents.</p>
+  <p>This project builds a coded dataset of what companies' own documents say about their consumer-facing AI: whether they accept, limit or shift responsibility for it, and where that language sits. The current corpus covers 166 documents from 59 companies across 12 sectors, coded against an 11-category clause taxonomy, with full provenance for every source and comparisons against archived 2022 terms for 21 companies.</p>
+</section>
+
+<section>
+  <h2>Dataset at a Glance</h2>
+  <div class="table-wrap">
+    <table>
+      <tbody>
+        <tr><td>Companies with a confirmed consumer-facing AI feature</td><td class="num">59</td></tr>
+        <tr><td>Sectors</td><td class="num">12</td></tr>
+        <tr><td>Source documents collected and coded</td><td class="num">166</td></tr>
+        <tr><td>Clause categories in the coding scheme</td><td class="num">11</td></tr>
+        <tr><td>Companies compared against archived November 2022 terms</td><td class="num">21</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="caption">Sectors: airlines, banking and fintech, edtech, food delivery, healthcare, hospitality, insurance, investing, real estate, retail, telecom, and travel booking.</p>
+</section>
+
+<section>
+  <h2>Method</h2>
+  <ol class="method">
+    <li><b>Scope.</b> Only AI the customer talks to directly, or that acts on their behalf, is included. Internal uses such as fraud scoring or ad targeting are excluded.</li>
+    <li><b>Document collection.</b> A fixed search protocol checks six document types for each company: product or service terms, site terms of use, dedicated AI terms, in-product notices, clauses governing AI agents, and the company's own marketing of the feature.</li>
+    <li><b>Coding.</b> Each document is coded against the eleven clause categories below. Each clause is recorded as AI-specific, as generic language that reaches the AI feature, or as absent.</li>
+    <li><b>Provenance.</b> Every document is recorded with its URL, retrieval date, revision date and how completely it was read. Documents that could not be retrieved are logged as gaps, not counted as evidence that a clause is absent. Codings are checked against an independent second coder.</li>
+  </ol>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Code</th><th>Clause category</th><th>Code</th><th>Clause category</th></tr></thead>
+      <tbody>
+        <tr><td>B1</td><td>AI statements not binding on price or terms</td><td>B7</td><td>Indemnification</td></tr>
+        <tr><td>B2</td><td>Limitation of liability</td><td>B8</td><td>Third-party sources</td></tr>
+        <tr><td>B3</td><td>Responsibility shifted to the user</td><td>B9</td><td>Misuse and anti-jailbreak</td></tr>
+        <tr><td>B4</td><td>Do not rely; verify</td><td>B10</td><td>Training and rights over inputs</td></tr>
+        <tr><td>B5</td><td>AI agent clauses</td><td>B11</td><td>Automated decision-making</td></tr>
+        <tr><td>B6</td><td>Accuracy and no warranty</td><td></td><td></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="caption"><b>Table 1.</b> The clause taxonomy.</p>
+</section>
+
+<section>
+  <h2>Where AI Liability Language Sits</h2>
+  <p>The same protective language can appear in very different places, and whether it binds the customer depends on where it is. Each company is placed on a five-level scale:</p>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Level</th><th>Location of AI language</th><th>Part of the binding contract?</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Standalone AI terms written for the feature</td><td>Yes</td></tr>
+        <tr><td>2</td><td>A dedicated AI section inside the main terms</td><td>Yes</td></tr>
+        <tr><td>3</td><td>Generic clauses that reach the AI through how "services" is defined</td><td>Yes</td></tr>
+        <tr><td>4</td><td>In-product notices only, such as a line in the chat window</td><td>No</td></tr>
+        <tr><td>5</td><td>No consumer-facing language about the AI</td><td>No</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="caption"><b>Table 2.</b> Locus of AI liability language.</p>
+</section>
+
+<section>
+  <h2>Example Entries</h2>
+  <div class="table-wrap">
+    <table class="examples">
+      <thead><tr><th>Company</th><th>AI feature</th><th>Document</th><th>Excerpt</th><th>Retrieved</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>Walmart</td><td>Shopping assistant</td>
+          <td><a href="https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0">Terms of Use §16.J</a> (rev. June 23, 2026)</td>
+          <td>AI-generated pricing "does not constitute an offer to sell the item at the stated price."</td>
+          <td>Aug 2, 2026</td>
+        </tr>
+        <tr>
+          <td>Robinhood</td><td>Cortex Assistant</td>
+          <td><a href="https://cdn.robinhood.com/assets/robinhood/legal/cortex_assistant_disclosure.pdf">Cortex Assistant Disclosure</a> (eff. June 16, 2026)</td>
+          <td>"No transaction will be executed without your explicit confirmation."</td>
+          <td>Sept 19, 2026</td>
+        </tr>
+        <tr>
+          <td>Verizon</td><td>Customer service chatbot</td>
+          <td><a href="https://www.verizon.com/support/my-verizon-app-service-chat-bot-video/">In-product notice, My Verizon chat</a></td>
+          <td>"Generated by AI. Verify if needed."</td>
+          <td>Sept 19, 2026</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="caption"><b>Table 3.</b> Three entries chosen to show the range. Walmart's dedicated AI section (level 2) addresses the <em>Moffatt</em> scenario directly: a price quoted by the AI does not bind the company. Robinhood's standalone terms (level 1) keep the customer in the loop by requiring confirmation of every trade. Verizon's caution appears only in the chat interface (level 4), outside any binding contract.</p>
+</section>
+
+<section>
+  <h2>Preliminary Finding</h2>
+  <p>Nearly half of the companies (28 of 59) have no AI-specific language in any binding contract. At the same time, the companies that do address their AI are revising their terms quickly: 14 now name their AI feature in the binding contract, almost all for features launched in 2025–26.</p>
+  <div class="fig">
+    <div class="units" role="img" aria-label="59 squares: 31 filled for companies with AI-specific language in a binding contract, 28 empty for companies without">
+      <span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span>
+      <span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span>
+      <span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span><span class="on"></span>
+      <span class="on"></span>
+      <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+      <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+    </div>
+    <p class="legend"><span><i class="on"></i>AI-specific language in a binding contract (31)</span><span><i></i>None (28)</span></p>
+  </div>
+  <p class="caption" style="text-align:center"><b>Figure 1.</b> One square per company. Preliminary; the full analysis will appear in the paper.</p>
+</section>
+
+<section>
+  <h2>Upcoming</h2>
+  <ul class="plain">
+    <li><b>Public dataset release (early 2027).</b> Company-level codings, a document register with provenance for every source, and the full codebook and coding manual.</li>
+    <li><b>Matched EU and UK expansion (in progress).</b> The same protocol applied to comparable companies operating under European consumer law.</li>
+    <li><b>Comparison with 2022 terms (in progress).</b> A clause-by-clause comparison with archived terms, separating AI-era drafting from pre-existing boilerplate.</li>
+    <li><b>Consumers' own AI agents (planned).</b> How company terms treat AI agents that customers send to shop, book or transact on their behalf.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Citation</h2>
+<pre>@misc{khan2026bot,
+  title  = {Who Answers for the Bot? A Dataset of How Consumer-Facing
+            Companies Allocate Liability for Their Own AI},
+  author = {Khan, Rohail},
+  year   = {2026},
+  url    = {https://rokhan10-create.github.io/ai-liability-terms/},
+  note   = {Working paper}
+}</pre>
+</section>
+</main>
+
+<footer>
+  <p>Findings are preliminary and subject to revision. This is research, not legal advice.</p>
+  <p>Company names identify the documents studied. Quotations are brief excerpts from publicly available documents, each linked to its source.</p>
+  <p>Last updated September 2026.</p>
+</footer>
+
+</div>
+</body>
+</html>
