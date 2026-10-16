@@ -1,7 +1,8 @@
-"""Derive the sample from screening-log.csv under protocol v2 (top 5 eligible firms per industry).
+"""Derive the sample from screening-log.csv under protocol v3 (top 10 eligible firms per industry in the 20 main-sample industries, top 5 elsewhere).
 
 Writes:
-  sample.csv          - top-5 firms with consumer_ai=yes and by_cutoff=yes (main sample)
+  sample.csv          - main-sample firms (top 10) with consumer_ai=yes and by_cutoff=yes
+  sample-supplementary.csv - supplementary firms (top 5) with consumer_ai=yes and by_cutoff=yes
   sample-unclear.csv  - top-5 firms with consumer_ai=unclear (robustness set)
   and updates candidate-industries.csv with k/5 adoption per industry.
 Prints industries whose top-5 roster is incomplete or covered by grouped rows.

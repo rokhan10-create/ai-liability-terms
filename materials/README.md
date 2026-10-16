@@ -14,7 +14,7 @@ The full captured text of the company documents is not included, because those d
 | `register/document-register-and-extracts.md` | For each document: provenance header (URL, retrieval date, effective date, capture depth, clause codes), the coding-relevant extract and the coder's note. |
 | `register/capture-manifest.csv` | File name, size and SHA-256 hash of every captured document. |
 | `baselines/` | The November 2022 baselines: `WAYBACK-MANIFEST.csv` and `v2-baseline-fetch-log.csv` give each Wayback Machine snapshot and timestamp, plus the reason a document has no baseline. `diff-results/` has the clause-level verdicts (carried over, mixed, new, retrofit), the per-document sentence statistics and the hand-check log. `FINDINGS-v2-clause-continuity.md` summarizes them. |
-| `screening/` | `screening-log.csv` lists all 562 firms screened, with rank, revenue and source, decision and evidence. Also includes the industry rankings (Economic Census revenue × household share), the screening protocol, rank changes and the derived samples. |
+| `screening/` | `screening-log.csv` lists all 562 firms screened; `sample-crosswalk.csv` links each screened-in firm to its dataset name; with rank, revenue and source, decision and evidence. Also includes the industry rankings (Economic Census revenue × household share), the screening protocol, rank changes and the derived samples. |
 | `codebook/` | The coding manual and the clause codebook (B1–B11, with the S/G/A/U rules). |
 | `scripts/` | `sample/` builds the sample from the screening log. `baseline-tools/` fetches Wayback captures and runs the sentence-level comparison. `analysis/` produces the taxonomy and Figure 1. Paths are relative to the original project folder, so adjust them before running. |
 | `reliability/` | Codes from both coders for the reliability-test documents, the second coder's instructions, the logs and the agreement reports. |
@@ -22,7 +22,7 @@ The full captured text of the company documents is not included, because those d
 ## Notes
 
 - **Snapshot.** Terms change. Every code describes the document as captured on the date recorded for it.
-- **Main-sample reconciliation.** `screening/sample.csv` is the output of the sample-building script. Its reconciliation with the 59-firm main sample reported in the paper is in progress. The paper's counts are computed from `dataset/documents.csv` (`sample_group_v2`).
+- **Main sample: 67 firms passed the screen, 59 were coded.** `screening/sample.csv` lists the 67 top-ten firms that passed. Eight of them, all ranked 6–10 (JetBlue, Breeze, Optimum, Mediacom, Fifth Third, Nationwide, Allstate, Prudential), entered the roster when the main-sample depth was raised from five to ten firms per industry. They could not be collected before the analysis freeze, so they are excluded from all counts in the paper. `screening/sample-crosswalk.csv` maps every screened-in firm (main and supplementary) to its name in the dataset and marks these eight as not collected.
 - **Reliability.** The reliability files come from the pilot corpus. A human validation on the final dataset is in progress.
 
 ## Licence
