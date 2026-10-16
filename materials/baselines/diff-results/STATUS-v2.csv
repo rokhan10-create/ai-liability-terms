@@ -1,0 +1,216 @@
+doc_id,company,sample_group,binding_v2,baseline,baseline_note,current_note,diffed
+T-01,AT&T,main,governs-surface,,NO-SNAPSHOT,ok,no
+ANF-01,Abercrombie & Fitch,main,governs-ai-expressly,previous-tos/clothing/abercrombie-fitch/anf-01-website-app-terms-of-use-ai-tools_20220601023455.txt,wayback 20220601023455 (on-or-before),ok,yes
+ALK-01,Alaska (+ Hawaiian),main,governs-surface,previous-tos/airlines/alaska-hawaiian/alk-01-alaska-website-terms-of-use_20221130175505.txt,wayback 20221130175505 (on-or-before),ok,yes
+ACI-01,Albertsons Companies,main,governs-surface,previous-tos/grocery/albertsons-companies/aci-01-albertsons-companies-terms-of-use-all-banners_20221130011108.txt,wayback 20221130011108 (on-or-before),ok,yes
+ACI-02,Albertsons Companies,main,governs-surface,previous-tos/grocery/albertsons-companies/aci-02-safeway-legacy-terms-of-use-page_20211102221657.txt,wayback 20211102221657 (on-or-before),ok,yes
+AAL-01,American,main,governs-ai-expressly,previous-tos/airlines/american/american_legal-information_20221017155337.txt,pilot baseline (reused),stripped annotations,yes
+AEO-01,American Eagle Outfitters,main,governs-ai-expressly,,NO-SNAPSHOT,ok,no
+BJS-01,BJ's Wholesale Club,main,governs-ai-expressly,,NO-SNAPSHOT,ok,no
+BAC-01,Bank of America,main,governs-ai-expressly,previous-tos/banking/bank-of-america/bac-01-online-banking-service-agreement-erica-section_20221120164136.txt,wayback 20221120164136 (on-or-before),ok,yes
+BBWI-01,Bath & Body Works,main,governs-ai-expressly,previous-tos/health-personal-care/bath-body-works/bbwi-01-terms-of-use-s-5-d-ai_20220514192945.txt,wayback 20220514192945 (on-or-before),ok,yes
+BOB-01,Bob's Discount Furniture,main,governs-ai-expressly,previous-tos/furniture/bob-s-discount-furniture/bob-01-terms-of-use_20221006015814.txt,wayback 20221006015814 (on-or-before),ok,yes
+KMX-01,CarMax,main,governs-ai-expressly,previous-tos/auto-dealers/carmax/kmx-01-terms-of-use-s-4-artificial-intelligence_20221126071727.txt,wayback 20221126071727 (on-or-before),ok,yes
+CVNA-01,Carvana,main,governs-ai-expressly,previous-tos/auto-dealers/carvana/cvna-01-terms-of-use-user-agreement_20220915215906.txt,wayback 20220915215906 (on-or-before),ok,yes
+CNC-01,Centene,main,governs-surface,previous-tos/insurance/centene/cnc-01-ambetter-terms-conditions_20221007021751.txt,wayback 20221007021751 (on-or-before),ok,yes
+CMX-03,Comcast,main,governs-surface,previous-tos/telecom/comcast/cmx-03-xfinity-web-services-terms-of-service_20230329105415.txt,wayback 20230329105415 (after),ok,yes
+DAL-01,Delta,main,governs-ai-expressly,,NO-SNAPSHOT,ok,no
+DAL-02,Delta,main,governs-surface,previous-tos/airlines/delta/delta_site-terms-of-use_20221126120150.txt,pilot baseline (reused),ok,yes
+DUK-01,Duke Energy,main,governs-surface,previous-tos/electric-utilities/duke-energy/duk-01-duke-energy-terms-of-use_20221127121736.txt,wayback 20221127121736 (on-or-before),ok,yes
+EIX-01,Edison International,main,governs-surface,,NO-SNAPSHOT,ok,no
+ELV-01,Elevance Health,main,governs-surface,previous-tos/insurance/elevance-health/elv-01-anthem-terms-of-use_20221128152022.txt,wayback 20221128152022 (on-or-before),ok,yes
+EXC-01,Exelon,main,governs-ai-expressly,,NO-SNAPSHOT,ok,no
+FRO-01,Frontier,main,governs-surface,previous-tos/airlines/frontier/frontier_terms-of-use_20221102020018.txt,pilot baseline (reused),ok,yes (THIN baseline: <15 legal sentences - check for empty shell)
+GAP-01,Gap Inc.,main,governs-surface,previous-tos/clothing/gap-inc/gap-01-gap-terms-of-use_20221130012027.txt,wayback 20221130012027 (on-or-before),ok,yes
+GE-01,Giant Eagle,main,governs-surface,previous-tos/grocery/giant-eagle/ge-01-giant-eagle-terms-of-use_20221001015937.txt,wayback 20221001015937 (on-or-before),ok,yes
+HIL-02,Hilton,main,governs-surface,previous-tos/hospitality/hilton/hilton_site-usage-agreement_20221126182440.txt,pilot baseline (reused),ok,yes
+HIM-01,Hims & Hers,main,governs-ai-expressly,,CDX-429,ok,no
+HD-01,Home Depot,main,governs-ai-expressly,previous-tos/retail/home-depot/hd-01-the-home-depot-terms-of-service_20221130131408.txt,"wayback 20221130131408 (on-or-before), text-only",ok,yes
+HD-06,Home Depot,main,governs-ai-expressly,previous-tos/retail/homedepot/homedepot_terms-of-use_20221130131408.txt,pilot baseline (reused),ok,yes
+H-01,Hyatt Hotels,main,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+JCR-01,J.Crew Group,main,governs-surface,previous-tos/clothing/j-crew-group/jcr-01-j-crew-terms-of-use_20221107200447.txt,"wayback 20221107200447 (on-or-before), text-only",ok,yes
+KD-01,Kinney Drugs,main,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+KD-02,Kinney Drugs,main,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+LOW-01,Lowe's,main,governs-surface,previous-tos/retail/lowes/lowes_terms-and-conditions_20221130195140.txt,pilot baseline (reused),ok,yes
+MAR-01,Marriott,main,governs-ai-expressly,previous-tos/hospitality/marriott/marriott_terms-of-use_20221126200132.txt,pilot baseline (reused),ok,yes
+MAR-02,Marriott,main,governs-ai-expressly,previous-tos/hospitality/marriott/mar-02-homes-villas-by-marriott-bonvoy-terms-of-service-search-with-ai_20221201193220.txt,"wayback 20221201193220 (after), text-only",ok,yes
+PUB-01,Publix,main,governs-surface,,CAPTURE-FAILED,ok,no
+LUV-01,Southwest Airlines,main,governs-surface,previous-tos/airlines/southwest-airlines/luv-01-southwest-com-terms-and-conditions_20221201151541.txt,"wayback 20221201151541 (after), text-only",ok,yes
+TMUS-01,T-Mobile US,main,governs-surface,previous-tos/telecom/t-mobile-us/tmus-01-t-mobile-terms-conditions_20221201092025.txt,"wayback 20221201092025 (after), text-only",ok,yes
+TGT-01,Target,main,governs-surface,previous-tos/retail/target/target_terms-conditions_20221128074519.txt,pilot baseline (reused),ok,yes
+TFC-01,Truist Financial,main,governs-surface,previous-tos/banking/truist-financial/tfc-01-online-and-mobile-banking-service-agreement_20221220233524.txt,"wayback 20221220233524 (after), text-only",ok,yes
+USB-01,U.S. Bancorp,main,governs-ai-expressly,previous-tos/banking/u-s-bancorp/usb-01-digital-services-agreement-smart-assistant-use-of-ai_20230103225554.txt,"wayback 20230103225554 (after), text-only",ok,yes
+ULTA-01,Ulta Beauty,main,governs-ai-expressly,previous-tos/health-personal-care/ulta-beauty/ulta-01-ulta-terms-conditions_20221203213133.txt,"wayback 20221203213133 (after), text-only",ok,yes
+UNH-01,UnitedHealth Group,main,governs-surface,previous-tos/insurance/unitedhealth-group/unh-01-uhc-terms-of-use_20221207090900.txt,"wayback 20221207090900 (after), text-only",ok,yes
+UNH-02,UnitedHealth Group,main,governs-surface,,NOT-ARCHIVED,ok,no
+VGD-01,Vanguard,main,governs-ai-expressly,previous-tos/investing/vanguard/vgd-01-vanguard-voicebot-terms-of-use_20221129150332.txt,"wayback 20221129150332 (on-or-before), text-only",ok,yes
+VGD-03,Vanguard,main,governs-ai-expressly,previous-tos/investing/vanguard/vgd-01-vanguard-voicebot-terms-of-use_20221129150332.txt,"wayback 20221129150332 (on-or-before), text-only",ok,yes
+VZ-05,Verizon,main,governs-surface,previous-tos/telecom/verizon/vz-05-my-verizon-terms-conditions_20230325151607.txt,"wayback 20230325151607 (after), text-only",ok,yes
+VZ-06,Verizon,main,governs-surface,previous-tos/telecom/verizon/vz-06-my-verizon-app-end-user-license-agreement_20230322000938.txt,"wayback 20230322000938 (after), text-only",ok,yes
+WMT-01,Walmart,main,governs-ai-expressly,previous-tos/retail/walmart/walmart_terms-of-use_20221130080639.txt,pilot baseline (reused),ok,yes
+WRBY-01,Warby Parker,main,governs-surface,previous-tos/health-personal-care/warby-parker/wrby-01-warby-parker-terms-of-use_20221126092549.txt,"wayback 20221126092549 (on-or-before), text-only",ok,yes
+W-01,Wayfair,main,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+WEG-01,Wegmans,main,governs-surface,previous-tos/grocery/wegmans/weg-01-wegmans-terms-of-use_20221209225156.txt,"wayback 20221209225156 (after), text-only",ok,yes
+WFC-01,Wells Fargo,main,governs-ai-expressly,previous-tos/banking/wells-fargo/wellsfargo_online-access-agreement_20221201101257.txt,pilot baseline (reused),ok,yes
+WFC-02,Wells Fargo,main,governs-ai-expressly,previous-tos/banking/wells-fargo/wellsfargo_general-terms-of-use_20221124062825.txt,pilot baseline (reused),ok,yes
+WSM-01,Williams-Sonoma,main,governs-ai-expressly,previous-tos/furniture/williams-sonoma/wsm-01-legal-statement_20221204003608.txt,"wayback 20221204003608 (after), text-only",ok,yes
+EBAY-01,eBay,main,governs-ai-expressly,,CAPTURE-FAILED,ok,no
+T-02,AT&T,main,governs-surface-partial,previous-tos/telecom/at-t/t-02-at-t-website-terms-of-use_20221201044641.txt,"wayback 20221201044641 (after), text-only",ok,yes
+CZR-01,Caesars Entertainment,main,governs-surface-partial,previous-tos/hospitality/caesars-entertainment/czr-01-caesars-terms-of-service-non-gaming-sites-and-apps_20221207205748.txt,"wayback 20221207205748 (after), text-only",ok,yes
+CASY-01,Casey's,main,governs-surface-partial,previous-tos/gas-stations/casey-s/casy-01-website-terms-and-conditions_20221127083410.txt,"wayback 20221127083410 (on-or-before), text-only",ok,yes
+CMG-01,Chipotle,main,governs-surface-partial,,NO-SNAPSHOT-IN-WINDOW,ok,no
+MET-01,MetLife,main,governs-surface-partial,previous-tos/insurance/metlife/met-01-metlife-legal-notices_20221206093302.txt,"wayback 20221206093302 (after), text-only",ok,yes
+MET-02,MetLife,main,governs-surface-partial,,NOT-ARCHIVED,ok,no
+STF-01,State Farm,main,governs-surface-partial,previous-tos/insurance/state-farm/stf-01-state-farm-terms-of-use_20221203002839.txt,"wayback 20221203002839 (after), text-only",ok,yes
+UAL-01,United,main,governs-surface-partial,previous-tos/airlines/united/united_legal-terms-conditions-notices_20221220171554.txt,pilot baseline (reused),stripped annotations,yes
+VGD-04,Vanguard,main,governs-surface-partial,previous-tos/investing/vanguard/vgd-01-vanguard-voicebot-terms-of-use_20221129150332.txt,"wayback 20221129150332 (on-or-before), text-only",ok,yes
+VZ-07,Verizon,main,governs-surface-partial,,NO-SNAPSHOT-IN-WINDOW,ok,no
+ALK-03,Alaska (+ Hawaiian),main,notice-not-contract,,NOT-ARCHIVED,ok,no
+AAL-03,American,main,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+CNC-02,Centene,main,notice-not-contract,previous-tos/insurance/centene/cnc-02-ambetter-privacy-policy_20221209054023.txt,"wayback 20221209054023 (after), text-only",ok,yes
+CMX-02,Comcast,main,notice-not-contract,previous-tos/telecom/comcast/cmx-02-comcast-xfinity-privacy-policy-adm_20221130222042.txt,"wayback 20221130222042 (on-or-before), text-only",ok,yes
+DAL-03,Delta,main,notice-not-contract,previous-tos/airlines/delta/delta_privacy-policy_20221130032232.txt,pilot baseline (reused),ok,yes
+DPZ-02,Domino's,main,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+ELV-02,Elevance Health,main,notice-not-contract,previous-tos/insurance/elevance-health/elv-02-anthem-privacy-statement_20221128152029.txt,"wayback 20221128152029 (on-or-before), text-only",ok,yes
+FRO-02,Frontier,main,notice-not-contract,previous-tos/airlines/frontier/frontier_privacy-policy_20221116203715.txt,pilot baseline (reused),ok,yes
+HIL-04,Hilton,main,notice-not-contract,previous-tos/hospitality/hilton/hil-04-hilton-global-privacy-statement_20221201145409.txt,"wayback 20221201145409 (after), text-only",ok,yes
+HIM-03,Hims & Hers,main,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+HD-04,Home Depot,main,notice-not-contract,previous-tos/retail/home-depot/hd-04-privacy-security-statement_20221130160219.txt,"wayback 20221130160219 (on-or-before), text-only",ok,yes
+KD-04,Kinney Drugs,main,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+LOW-02,Lowe's,main,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+MAR-03,Marriott,main,notice-not-contract,previous-tos/hospitality/marriott/mar-03-marriott-group-global-privacy-statement_20221203233317.txt,"wayback 20221203233317 (after), text-only",ok,yes
+MET-03,MetLife,main,notice-not-contract,previous-tos/insurance/metlife/met-03-metlife-privacy-statement_20221201212552.txt,"wayback 20221201212552 (after), text-only",ok,yes
+STF-02,State Farm,main,notice-not-contract,previous-tos/insurance/state-farm/stf-02-state-farm-notice-of-privacy-policy-replaces-privacy-hub-page_20221202031500.txt,"wayback 20221202031500 (after), text-only",ok,yes
+TGT-02,Target,main,notice-not-contract,previous-tos/retail/target/tgt-02-target-privacy-policy_20221201040526.txt,"wayback 20221201040526 (after), text-only",ok,yes
+ULTA-03,Ulta Beauty,main,notice-not-contract,previous-tos/health-personal-care/ulta-beauty/ulta-03-privacy-policy-s-14-ai-notice_20221201004907.txt,"wayback 20221201004907 (after), text-only",ok,yes
+UAL-03,United,main,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+UNH-05,UnitedHealth Group,main,notice-not-contract,previous-tos/insurance/unitedhealth-group/unh-05-privacy-hub-page_20221130232834.txt,"wayback 20221130232834 (on-or-before), text-only",ok,yes
+VZ-02,Verizon,main,notice-not-contract,previous-tos/telecom/verizon/vz-02-verizon-privacy-policy-automated-processing-profiling_20221130112126.txt,"wayback 20221130112126 (on-or-before), text-only",ok,yes
+WMT-02,Walmart,main,notice-not-contract,previous-tos/retail/walmart/wmt-02-walmart-privacy-notice_20230101082341.txt,"wayback 20230101082341 (after), text-only",ok,yes
+WRBY-02,Warby Parker,main,notice-not-contract,previous-tos/health-personal-care/warby-parker/wrby-02-warby-parker-privacy-policy_20221129193111.txt,"wayback 20221129193111 (on-or-before), text-only",ok,yes
+WEG-02,Wegmans,main,notice-not-contract,previous-tos/grocery/wegmans/weg-02-privacy-policy-chatbots-and-ai-features_20220823191742.txt,"wayback 20220823191742 (on-or-before), text-only",ok,yes
+WFC-03,Wells Fargo,main,notice-not-contract,previous-tos/banking/wells-fargo/wfc-03-wells-fargo-u-s-consumer-privacy-notice_20230130164619.txt,"wayback 20230130164619 (after), text-only",ok,yes
+EBAY-02,eBay,main,notice-not-contract,,CAPTURE-FAILED,ok,no
+ALK-02,Alaska (+ Hawaiian),main,adjacent-not-governing,,NO-SNAPSHOT-IN-WINDOW,ok,no
+AAL-02,American,main,adjacent-not-governing,,NO-SNAPSHOT-IN-WINDOW,ok,no
+AAL-04,American,main,adjacent-not-governing,,NO-SNAPSHOT-IN-WINDOW,ok,no
+CMX-04,Comcast,main,adjacent-not-governing,previous-tos/telecom/comcast/cmx-04-xfinity-residential-services-agreement_20221203005052.txt,"wayback 20221203005052 (after), text-only",ok,yes
+DAL-05,Delta,main,adjacent-not-governing,,NO-SNAPSHOT-IN-WINDOW,ok,no
+FRO-03,Frontier,main,adjacent-not-governing,,NO-SNAPSHOT-IN-WINDOW,ok,no
+LUV-02,Southwest Airlines,main,adjacent-not-governing,previous-tos/airlines/southwest-airlines/luv-02-contract-of-carriage_20221201151528.txt,"wayback 20221201151528 (after), text-only",ok,yes
+UAL-02,United,main,adjacent-not-governing,,CAPTURE-FAILED,ok,no
+C-02,Citigroup,main,no-reach,,NO-SNAPSHOT-IN-WINDOW,ok,no
+DPZ-01,Domino's,main,no-reach,,NO-SNAPSHOT-IN-WINDOW,ok,no
+HIL-01,Hilton,main,no-reach,previous-tos/hospitality/hilton/hil-01-hilton-ai-terms-ai-tools-only-public-host-is-hilton-grand-vacat_20230112045553.txt,"wayback 20230112045553 (after), text-only",ok,yes
+MCD-01,McDonald's,main,no-reach,previous-tos/restaurants/mcdonald-s/mcd-01-terms-conditions-online-services_20221129203041.txt,"wayback 20221129203041 (on-or-before), text-only",ok,yes
+PCG-02,PG&E,main,no-reach,,NO-SNAPSHOT-IN-WINDOW,ok,no
+VZ-04,Verizon,main,no-reach,,NO-SNAPSHOT-IN-WINDOW,ok,no
+YUM-01,Yum! Brands,main,no-reach,,NO-SNAPSHOT-IN-WINDOW,ok,no
+FLWS-01,1-800-Flowers.com,supplementary,governs-surface,previous-tos/specialty-food/1-800-flowers-com/flws-01-1-800-flowers-com-terms-of-use_20221213224653.txt,"wayback 20221213224653 (after), text-only",ok,yes
+TWOU-01,2U (edX),supplementary,governs-surface,previous-tos/educational-support/2u-edx/twou-01-edx-terms-of-service-and-honor-code_20221203082237.txt,"wayback 20221203082237 (after), text-only",ok,yes
+ABB-01,Airbnb,supplementary,governs-surface,previous-tos/travel-ota/airbnb/abb-01-airbnb-terms-of-service-ai-generated-content-sec-9_20221127164754.txt,"wayback 20221127164754 (on-or-before), text-only",ok,yes
+ALLY-01,Ally Financial,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+AVB-01,AvalonBay Communities,supplementary,governs-ai-expressly,previous-tos/apartment-reits/avalonbay-communities/avb-01-vivmark-terms-of-use-avalonbay-site-s-13-ai_20221205201611.txt,"wayback 20221205201611 (after), text-only",ok,yes
+CAR-01,Avis Budget Group,supplementary,governs-surface,previous-tos/car-rental/avis-budget-group/car-01-avis-terms-of-use_20221130061145.txt,"wayback 20221130061145 (on-or-before), text-only",ok,yes
+BN-01,Barnes & Noble,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+BBY-01,Best Buy,supplementary,governs-ai-expressly,previous-tos/electronics/best-buy/bby-01-bestbuy-com-terms-and-conditions_20221201185155.txt,"wayback 20221201185155 (after), text-only",ok,yes
+XYZ-01,Block (Cash App),supplementary,governs-ai-expressly,previous-tos/payments-fintech/block-cash-app/xyz-01-cash-app-terms-of-service-incl-s-xxii-generative-ai-terms-of-us_20221126232832.txt,"wayback 20221126232832 (on-or-before), text-only",ok,yes
+BKG-01,Booking.com,supplementary,governs-surface,,NOT-ARCHIVED,ok,no
+CVS-01,CVS Health,supplementary,governs-surface,previous-tos/insurance/cvs-health/cvs-01-aetna-digital-terms-of-use_20221205122718.txt,"wayback 20221205122718 (after), text-only",ok,yes
+CVS-02,CVS Health,supplementary,governs-surface,previous-tos/insurance/cvs-health/cvs-02-aetna-cvs-health-medicaid-web-and-mobile-terms_20230130221028.txt,"wayback 20230130221028 (after), text-only",ok,yes
+CWH-01,Camping World,supplementary,governs-surface,previous-tos/rv-boat-dealers/camping-world/cwh-01-camping-world-terms-of-use_20221126221358.txt,"wayback 20221126221358 (on-or-before), text-only",ok,yes
+SCHW-01,Charles Schwab,supplementary,governs-surface,previous-tos/investing/charles-schwab/schw-01-schwab-website-terms_20221205165523.txt,"wayback 20221205165523 (after), text-only",ok,yes
+CHG-01,Chegg,supplementary,governs-ai-expressly,,CAPTURE-FAILED,ok,no
+CHM-03,Chime,supplementary,governs-surface,,NOT-ARCHIVED,ok,no
+COUR-01,Coursera,supplementary,governs-ai-expressly,previous-tos/online-training/coursera/cour-01-coursera-terms-of-use-s-10-ai-disclaimer_20221129191525.txt,"wayback 20221129191525 (on-or-before), text-only",ok,yes
+DKS-01,Dick's Sporting Goods,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+DD-01,DoorDash,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+EA-01,Electronic Arts,supplementary,governs-surface,,ARCHIVED-HTTP-426,ok,no
+EQR-01,Equity Residential,supplementary,governs-ai-expressly,previous-tos/apartment-reits/equity-residential/eqr-01-vivmark-residential-terms-of-use-s-13-ai_20221022032600.txt,"wayback 20221022032600 (on-or-before), text-only",ok,yes
+EXP-01,Expedia,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+FDX-01,FedEx,supplementary,governs-surface,previous-tos/couriers/fedex/fdx-01-fedex-com-terms-of-use_20221128055334.txt,"wayback 20221128055334 (on-or-before), text-only",ok,yes
+FID-01,Fidelity Investments,supplementary,governs-ai-expressly,previous-tos/investing/fidelity-investments/fid-01-fidelity-websites-terms-of-use-virtual-assistant_20221204215653.txt,"wayback 20221204215653 (after), text-only",ok,yes
+GEN-01,Gen Digital,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+HRB-01,H&R Block,supplementary,governs-ai-expressly,previous-tos/tax-prep/h-r-block/hrb-01-terms-of-use-agreement-ai-and-automated-features_20221127021515.txt,"wayback 20221127021515 (on-or-before), text-only",ok,yes
+HRB-03,H&R Block,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+INS-01,Instacart,supplementary,governs-ai-expressly,previous-tos/food-delivery/instacart/instacart_terms-of-service_20221129223743.txt,pilot baseline (reused),ok,yes
+INTU-01,Intuit,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+KOA-01,Kampgrounds of America,supplementary,governs-surface,previous-tos/campgrounds/kampgrounds-of-america/koa-01-koa-website-terms-of-use_20221016222413.txt,"wayback 20221016222413 (on-or-before), text-only",ok,yes
+KS-01,Kendra Scott,supplementary,governs-surface,previous-tos/jewelry/kendra-scott/ks-01-kendra-scott-terms-conditions_20221108141906.txt,"wayback 20221108141906 (on-or-before), text-only",ok,yes
+LH-01,Labcorp,supplementary,governs-ai-expressly,previous-tos/medical-labs/labcorp/lh-01-labcorp-online-services-user-agreement-s-6-ai_20221207202158.txt,"wayback 20221207202158 (after), text-only",ok,yes
+LZ-01,LegalZoom,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+LZ-02,LegalZoom,supplementary,governs-ai-expressly,previous-tos/legal-services/legalzoom/lz-02-terms-of-service_20221201182507.txt,"wayback 20221201182507 (after), text-only",ok,yes
+LZ-03,LegalZoom,supplementary,governs-surface,previous-tos/legal-services/legalzoom/lz-03-terms-of-use_20221201182341.txt,"wayback 20221201182341 (after), text-only",ok,yes
+FWON-01,Liberty Media,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+LTH-01,Life Time Group Holdings,supplementary,governs-ai-expressly,previous-tos/amusement-recreation/life-time-group-holdings/lth-01-life-time-terms-of-use-ai-chatbot-paragraph_20221128143921.txt,"wayback 20221128143921 (on-or-before), text-only",ok,yes
+LYV-01,Live Nation Entertainment,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+LYFT-01,Lyft,supplementary,governs-ai-expressly,previous-tos/ride-hailing/lyft/lyft-01-lyft-terms-of-service_20221203044357.txt,"wayback 20221203044357 (after), text-only",ok,yes
+MTCH-01,Match Group,supplementary,governs-ai-expressly,previous-tos/streaming-social/match-group/mtch-01-tinder-terms-of-use_20221205151442.txt,"wayback 20221205151442 (after), text-only",ok,yes
+MTCH-02,Match Group,supplementary,governs-surface,previous-tos/streaming-social/match-group/mtch-02-hinge-terms-of-service_20221204041633.txt,"wayback 20221204041633 (after), text-only",ok,yes
+MET-P-01,Metropolis Technologies,supplementary,governs-ai-expressly,previous-tos/personal-services/metropolis-technologies/met-p-01-metropolis-terms-of-service_20221121121735.txt,"wayback 20221121121735 (on-or-before), text-only",ok,yes
+MIK-01,Michaels,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+NRDY-01,Nerdy,supplementary,governs-ai-expressly,previous-tos/tutoring/nerdy/nrdy-01-varsity-tutors-terms-of-use_20221022173138.txt,"wayback 20221022173138 (on-or-before), text-only",ok,yes
+NFLX-01,Netflix,supplementary,governs-surface,previous-tos/streaming-social/netflix/nflx-01-netflix-terms-of-use_20221203152108.txt,"wayback 20221203152108 (after), text-only",ok,yes
+NEGG-01,Newegg Commerce,supplementary,governs-surface,previous-tos/electronics/newegg-commerce/negg-01-newegg-policy-agreement_20221130185754.txt,"wayback 20221130185754 (on-or-before), text-only",ok,yes
+NI-01,NiSource,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+JWN-01,Nordstrom,supplementary,governs-surface,,CAPTURE-FAILED,ok,no
+NCLH-01,Norwegian Cruise Line Holdings,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+ODP-01,ODP Corp,supplementary,governs-surface,previous-tos/office-supplies/odp-corp/odp-01-office-depot-terms-of-use_20220530195437.txt,"wayback 20220530195437 (on-or-before), text-only",ok,yes
+PYPL-01,PayPal Holdings,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+PINS-01,Pinterest,supplementary,governs-surface,previous-tos/streaming-social/pinterest/pins-01-pinterest-terms-of-service_20221201024843.txt,"wayback 20221201024843 (after), text-only",ok,yes
+RELY-01,Remitly Global,supplementary,governs-surface,previous-tos/payments-fintech/remitly-global/rely-01-remitly-user-agreement_20221128105928.txt,"wayback 20221128105928 (on-or-before), text-only",ok,yes
+RBLX-01,Roblox,supplementary,governs-ai-expressly,,ARCHIVED-HTTP-403,ok,no
+RKT-01,Rocket Companies,supplementary,governs-surface,previous-tos/consumer-lending/rocket-companies/rkt-01-rocket-group-terms-of-use_20221208224005.txt,"wayback 20221208224005 (after), text-only",ok,yes
+RL-01,Rocket Lawyer,supplementary,governs-ai-expressly,,NO-SNAPSHOT-IN-WINDOW,ok,no
+RL-02,Rocket Lawyer,supplementary,governs-surface,previous-tos/legal-services/rocket-lawyer/rl-02-general-terms-of-service_20221201102303.txt,"wayback 20221201102303 (after), text-only",ok,yes
+ROKU-01,Roku,supplementary,governs-surface,previous-tos/streaming-social/roku/roku-01-roku-products-terms-of-use_20230227005830.txt,"wayback 20230227005830 (after), text-only",ok,yes
+ROKU-02,Roku,supplementary,governs-surface,,NOT-ARCHIVED,ok,no
+RCL-01,Royal Caribbean Group,supplementary,governs-surface,previous-tos/cruise-lines/royal-caribbean-group/rcl-01-digital-terms-of-use-and-eula_20221126121233.txt,"wayback 20221126121233 (on-or-before), text-only",ok,yes
+SIG-01,Signet Jewelers,supplementary,governs-surface,previous-tos/jewelry/signet-jewelers/sig-01-signet-group-terms-of-use_20221204043800.txt,"wayback 20221204043800 (after), text-only",ok,yes
+FUN-01,Six Flags Entertainment,supplementary,governs-surface,previous-tos/amusement-parks/six-flags-entertainment/fun-01-six-flags-terms-of-use_20221204083607.txt,"wayback 20221204083607 (after), text-only",ok,yes
+SNAP-01,Snap,supplementary,governs-ai-expressly,previous-tos/streaming-social/snap/snap-01-snap-terms-of-service-s-6-ai-features_20221130072247.txt,"wayback 20221130072247 (on-or-before), text-only",ok,yes
+SYF-01,Synchrony Financial,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+SYF-02,Synchrony Financial,supplementary,governs-surface,,NOT-ARCHIVED,ok,no
+CI-01,The Cigna Group,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+TDUP-01,ThredUp,supplementary,governs-ai-expressly,previous-tos/used-merchandise/thredup/tdup-01-thredup-terms-of-use-ai-features_20221113100532.txt,"wayback 20221113100532 (on-or-before), text-only",ok,yes
+TSCO-01,Tractor Supply,supplementary,governs-surface,previous-tos/lawn-garden/tractor-supply/tsco-01-tractor-supply-terms-conditions_20230427122047.txt,"wayback 20230427122047 (after), text-only",ok,yes
+TRP-01,Tripadvisor,supplementary,governs-ai-expressly,previous-tos/travel-ota/tripadvisor/trp-01-tripadvisor-terms-accuracy-clause-reaching-ai_20221201052633.txt,"wayback 20221201052633 (after), text-only",ok,yes
+TURO-01,Turo,supplementary,governs-surface,previous-tos/car-rental/turo/turo-01-turo-terms-of-service_20221128012240.txt,"wayback 20221128012240 (on-or-before), text-only",ok,yes
+UPS-01,UPS,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+UBR-01,Uber Eats,supplementary,governs-surface,previous-tos/food-delivery/ubereats/uber_general-terms-of-use-US_20220626175240.txt,pilot baseline (reused),ok,yes
+ZG-01,Zillow,supplementary,governs-surface,,NO-SNAPSHOT-IN-WINDOW,ok,no
+EH-01,eHealth,supplementary,governs-surface,,CAPTURE-FAILED,ok,no
+GRY-01,Greystar,supplementary,governs-surface-partial,previous-tos/real-estate/greystar/gry-01-greystar-terms-of-use_20221128201303.txt,"wayback 20221128201303 (on-or-before), text-only",ok,yes
+M-01,Macy's,supplementary,governs-surface-partial,,NO-SNAPSHOT-IN-WINDOW,ok,no
+NBR-01,Neighborly,supplementary,governs-surface-partial,previous-tos/services-to-buildings/neighborly/nbr-01-neighborly-terms-of-use-also-on-mollymaid-com_20221207205045.txt,"wayback 20221207205045 (after), text-only",ok,yes
+TG-01,Topgolf,supplementary,governs-surface-partial,previous-tos/amusement-recreation/topgolf/tg-01-topgolf-terms-conditions_20221205013601.txt,"wayback 20221205013601 (after), text-only",ok,yes
+UPBD-02,Upbound Group,supplementary,governs-surface-partial,,NO-SNAPSHOT-IN-WINDOW,ok,no
+MTN-01,Vail Resorts,supplementary,governs-surface-partial,previous-tos/amusement-recreation/vail-resorts/mtn-01-epic-pass-policies-website-terms-terms-of-sale-privacy_20221225041654.txt,"wayback 20221225041654 (after), text-only",ok,yes
+ABB-02,Airbnb,supplementary,notice-not-contract,previous-tos/travel-ota/airbnb/abb-02-airbnb-privacy-policy-automated-decisions-profiling_20221205221524.txt,"wayback 20221205221524 (after), text-only",ok,yes
+AVB-02,AvalonBay Communities,supplementary,notice-not-contract,previous-tos/apartment-reits/avalonbay-communities/avb-02-vivmark-privacy-notice-avalonbay-site_20221106233900.txt,"wayback 20221106233900 (on-or-before), text-only",ok,yes
+CAR-02,Avis Budget Group,supplementary,notice-not-contract,previous-tos/car-rental/avis-budget-group/car-02-avis-privacy-notice_20221130074559.txt,"wayback 20221130074559 (on-or-before), text-only",ok,yes
+BKG-02,Booking.com,supplementary,notice-not-contract,,NOT-ARCHIVED,ok,no
+COF-03,Capital One,supplementary,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+CHG-02,Chegg,supplementary,notice-not-contract,previous-tos/edtech/chegg/chg-02-chegg-global-privacy-policy-adm_20221102005741.txt,"wayback 20221102005741 (on-or-before), text-only",ok,yes
+CHM-02,Chime,supplementary,notice-not-contract,previous-tos/banking/chime/chm-02-chime-privacy-policy-automated-decisions_20221113093232.txt,"wayback 20221113093232 (on-or-before), text-only",ok,yes
+DD-03,DoorDash,supplementary,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+EQR-02,Equity Residential,supplementary,notice-not-contract,previous-tos/apartment-reits/equity-residential/eqr-02-vivmark-privacy-notice-s-6_20221208151941.txt,"wayback 20221208151941 (after), text-only",ok,yes
+EXP-02,Expedia,supplementary,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+GRY-03,Greystar,supplementary,notice-not-contract,previous-tos/real-estate/greystar/gry-03-greystar-global-privacy-statement-ai-tools-section_20221204051156.txt,"wayback 20221204051156 (after), text-only",ok,yes
+GRY-04,Greystar,supplementary,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+INS-02,Instacart,supplementary,notice-not-contract,previous-tos/food-delivery/instacart/ins-02-instacart-privacy-policy_20221129223744.txt,"wayback 20221129223744 (on-or-before), text-only",ok,yes
+KS-02,Kendra Scott,supplementary,notice-not-contract,previous-tos/jewelry/kendra-scott/ks-02-kendra-scott-privacy-policy_20221006125159.txt,"wayback 20221006125159 (on-or-before), text-only",ok,yes
+MET-P-02,Metropolis Technologies,supplementary,notice-not-contract,previous-tos/personal-services/metropolis-technologies/met-p-02-metropolis-privacy-policy-alpr-mrp-notices_20221121154939.txt,"wayback 20221121154939 (on-or-before), text-only",ok,yes
+TG-02,Topgolf,supplementary,notice-not-contract,previous-tos/amusement-recreation/topgolf/tg-02-topgolf-privacy-policy_20221130042206.txt,"wayback 20221130042206 (on-or-before), text-only",ok,yes
+TRP-03,Tripadvisor,supplementary,notice-not-contract,previous-tos/travel-ota/tripadvisor/trp-03-tripadvisor-privacy-and-cookies-statement-adm_20221201040652.txt,"wayback 20221201040652 (after), text-only",ok,yes
+UBR-03,Uber Eats,supplementary,notice-not-contract,previous-tos/food-delivery/uber-eats/ubr-03-uber-privacy-notice_20221130233527.txt,"wayback 20221130233527 (on-or-before), text-only",ok,yes
+UPBD-01,Upbound Group,supplementary,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+ZG-02,Zillow,supplementary,notice-not-contract,,NO-SNAPSHOT-IN-WINDOW,ok,no
+EH-02,eHealth,supplementary,notice-not-contract,,CAPTURE-FAILED,ok,no
+ALLY-02,Ally Financial,supplementary,adjacent-not-governing,,NO-SNAPSHOT-IN-WINDOW,ok,no
+CVS-04,CVS Health,supplementary,no-reach,previous-tos/insurance/cvs-health/cvs-04-cvs-health-terms-of-use_20221209144206.txt,"wayback 20221209144206 (after), text-only",ok,yes
+CVS-05,CVS Health,supplementary,no-reach,previous-tos/insurance/cvs-health/cvs-05-cvs-com-terms-of-use_20221126101134.txt,"wayback 20221126101134 (on-or-before), text-only",ok,yes
+COF-01,Capital One,supplementary,no-reach,previous-tos/banking/capital-one/cof-01-capital-one-terms-conditions_20221201065310.txt,"wayback 20221201065310 (after), text-only",ok,yes
+GRY-02,Greystar,supplementary,no-reach,previous-tos/real-estate/greystar/gry-02-greystar-resident-app-terms-of-use_20230320214638.txt,"wayback 20230320214638 (after), text-only",ok,yes
+DGX-01,Quest Diagnostics,supplementary,no-reach,previous-tos/medical-labs/quest-diagnostics/dgx-01-quest-terms-and-conditions_20220903222600.txt,"wayback 20220903222600 (on-or-before), text-only",ok,yes
+CI-02,The Cigna Group,supplementary,no-reach,,NOT-ARCHIVED,ok,no

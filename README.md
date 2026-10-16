@@ -8,7 +8,7 @@ Rohail Khan, Bellevue High School. Findings on the page are preliminary.
 
 ## Data and materials
 
-The materials supporting the paper will be released in this repository in early 2027. Until then they are available to reviewers on request. The release will contain:
+The materials supporting the paper are in [`materials/`](materials/) (released October 2026; data frozen 14 October 2026). They contain:
 
 - **Dataset.** One record per document, with binding status, assent mechanism, where the AI language sits, and the code for each of the eleven clause families.
 - **Document register.** For every document: URL, retrieval date, stated effective date, capture method, SHA-256 hash, the coding-relevant extract and the coder's note.

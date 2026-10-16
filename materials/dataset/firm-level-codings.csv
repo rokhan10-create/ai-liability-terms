@@ -1,0 +1,60 @@
+firm,vertical,ai_vector,binding_ai_disclosure,axisA_disclosure,axisB_disclaimer,axisC_responsibility,b1_device,ai_naming,cluster,note
+Walmart,retail,generative,dedicated,3,3,3,clean,brand-elsewhere,fortified,only clean B1; names Sparky by brand only in privacy notice
+Wells Fargo,banking,generative,integrated,2,3,3,channel,category-binding,fortified,"channel-limitation device, not output disclaimer"
+Marriott,hospitality,generative,dedicated,3,3,3,clean,brand-binding,fortified,names Ask Bonvoy IN binding ToU; B1 reaches AI errors after confirmation; 2nd B1 in corpus
+American,airlines,agentic,dedicated,3,2,3,none,category-binding,agentic-shift,vendor pre-approval regime; $500 cap
+Instacart,food-delivery,agentic,dedicated,3,2,3,none,brand-elsewhere,agentic-shift,owns Outputs while disclaiming accuracy
+Target,retail,agentic,dedicated,3,2,3,none,category-binding,agentic-shift,governs third-party Gemini agent; OWN chatbot ungoverned
+Lemonade,insurance,agentic,dedicated,2,3,3,policy-governs,brand-binding,fortified,policy-governs reliance-limiter + no-auto-reject safeguard; robust Art.22 B11 (underwriting+claims)
+Revolut,banking,generative,dedicated,2,3,2,channel,brand-elsewhere,fortified,"dedicated AI notice (supplement, not clickwrap); AI cannot transact + human fallback"
+Robinhood,investing,agentic,dedicated,3,3,2,execution-confirm,brand-binding,fortified,near-complete Cortex disclosure; execution-confirmation safeguard; B6+B4 verify+B3+B2+B8
+Coinbase,investing,agentic,dedicated,3,2,3,non-discretionary,brand-binding,fortified,"OUTLIER: SEC-registered AI fiduciary (embraces advice); non-discretionary, user confirms every trade"
+Delta,airlines,generative,dedicated,3,2,2,none,brand-elsewhere,warned,strongest airline terms + a near-Moffatt incident (award ticket cancelled)
+Klarna,banking,generative,dedicated,3,2,2,none,brand-binding,warned,dedicated AI-assistant clause in binding user terms; directive verify + B3; robust credit B11; EUR750k Swedish DPA fine
+Expedia,travel-ota,generative,dedicated,3,2,1,none,category-binding,warned,dedicated AI Terms; B6+B8+B4 verify-before-booking+B10; B11 Art.22
+Kayak,travel-ota,generative,dedicated,3,1,1,none,brand-binding,warned,dedicated AI terms (kayak.ai); B6 AS-IS + B8; Booking Holdings template
+GEICO,insurance,generative,dedicated,3,2,2,none,brand-binding,warned,dedicated Kate AI disclaimer; B6+B3+no-advice+human fallback; B11 not located
+Public,investing,agentic,dedicated,3,2,2,none,brand-binding,warned,dedicated AI disclaimers; B6+B4 no-advice+B3 reach-own-conclusions
+eToro,investing,agentic,dedicated,3,2,1,none,brand-binding,warned,dedicated Tori disclaimer; B6+B4 no-advice; EU/foreign; agentic Agent Portfolios
+Ada Health,healthcare,generative,dedicated,3,2,2,none,brand-binding,warned,AI-specific B6 (names LLMs) + B4 directive + B3 + B8; no-diagnosis; B11 absent despite GDPR
+K Health,healthcare,generative,dedicated,3,2,2,none,brand-binding,warned,strong no-advice + emergency; no AI-specific accuracy clause; stale 2023 terms
+Khan Academy,edtech,generative,dedicated,3,2,2,none,brand-binding,warned,dedicated AI-Enabled Features clause; B6 (math errors) + B4 directive fact-check; minors caveat
+Grammarly,edtech,generative,dedicated,3,2,2,none,category-binding,warned,dedicated GenAI clause; B6+B4 (not single source)+B3 assume-risk; owns outputs
+Hilton,hospitality,generative,dedicated,3,2,1,none,category-binding,warned,dedicated standalone AI Terms; site agreement silent; Planner recommend-only; B11 present
+Vodafone,telecom,generative,dedicated,3,1,1,none,brand-binding,warned,dedicated TOBi chatbot T&Cs (B6 + transparency duty); B11 fraud/AML ADM
+Uber Eats,food-delivery,agentic,integrated,2,2,1,near,category-binding,warned,dedicated AI page but binding status CONTESTED; near-B1; no B3
+DoorDash,food-delivery,generative,integrated,2,2,2,none,none,peripheral,3 binding AI clauses all self-serving; output disclaimers only in help article
+Tripadvisor,travel-ota,generative,integrated,2,1,0,none,category-binding,peripheral,ToU accuracy clause reaching AI; AI-summary whitewashing harm
+Teladoc,healthcare,generative,integrated,2,1,1,none,category-binding,peripheral,generic no-advice reaching AI programs + emergency; AI-specific accuracy not located
+Chegg,edtech,generative,integrated,2,0,0,none,category-binding,peripheral,generic accuracy clause reaching AI; only AI Functions data disclosure
+Frontier,airlines,hybrid,peripheral,1,1,2,none,category-nonbinding,peripheral,operative liability shift sits in a PRIVACY NOTICE
+Home Depot,retail,generative,integrated,2,2,1,none,category-binding,warned,"Recoded 2026-09-25 (was peripheral 1/1/1): HD-06 Sep-2026 ToU revision adds generic 'AI powered features' B6 + directive B4 (read labels before use) + B10 training licence; reaches Magic Apron by category, never names it; brand only in microcopy (HD-02/03)"
+Alaska (+ Hawaiian),airlines,generative,peripheral,1,1,1,none,brand-elsewhere,peripheral,one hedged microcopy line; links to no terms
+Verizon,telecom,generative,peripheral,1,2,2,none,category-nonbinding,peripheral,consumer AI liability in microcopy (Verify if needed); thin B11; no-LLM-training commitment
+Comcast,telecom,generative,peripheral,1,0,0,none,brand-elsewhere,peripheral,bare responses-may-be-AI-generated microcopy; no accuracy/verify; weakest telecom
+Rightmove,real-estate,generative,peripheral,1,2,1,none,category-nonbinding,peripheral,AI microcopy: can be inaccurate check before relying (B6+B4 directive); UK
+NatWest,banking,generative,peripheral,1,0,1,none,brand-elsewhere,peripheral,Cora generic/no output disclaimer; robust decisional B11 (loan review + human intervention)
+bunq,banking,generative,peripheral,1,0,1,none,brand-elsewhere,peripheral,Finn output disclaimer not located; robust Art.22 B11 (Finn consent-gate + human review)
+Amazon,retail,generative,silent,1,0,0,none,brand-elsewhere,exposed,"Reviewed 2026-09-25 vs AMZ-05, coding unchanged: revised CoU adds B9 anti-LLM-training + inbound Agent Terms (B5, bot-compliance, no loss allocation); neither reaches Rufus's own outputs. Compelled + privacy disclosure only for own AI; Rufus documented wrong"
+Capital One,banking,agentic,silent,1,0,0,none,brand-elsewhere,exposed,only a compelled CA AB2013 training-data notice; agentic feature ungoverned
+Lowe's,retail,generative,silent,0,0,0,none,brand-elsewhere,exposed,silent 16mo post-launch; marketing names Mylow 23x with zero accuracy terms
+United,airlines,generative,silent,0,0,0,none,none,exposed,"CoC revised May 2026, still AI-silent - kills staleness"
+Gopuff,food-delivery,agentic,silent,0,0,0,none,none,exposed,"silent 18mo pre-launch; most capable AI, least-aware contract"
+Dave,banking,generative,silent,0,0,0,none,none,exposed,"sharpest recency gap: updated 4 weeks pre-retrieval, still silent"
+IHG,hospitality,generative,silent,0,0,0,none,none,exposed,frozen 2022 ToU AI-silent over 2026 AI Planner; B11 Brazil-scoped
+Accor,hospitality,generative,silent,0,0,0,none,none,exposed,AI-silent terms; consumer AI lives in ChatGPT app; B11 rights only in China/PIPL section
+Booking.com,travel-ota,generative,silent,0,0,0,near,none,exposed,own AI Trip Planner ungoverned; anti-agentic clauses; generic B1 (obvious errors)
+Duolingo,edtech,generative,silent,0,0,0,none,none,exposed,AI-silent terms revised Sept 2025 (~2yr post-Max); say-do gap; Additional Terms hook
+Zillow,real-estate,generative,silent,0,0,0,none,none,exposed,AI-silent ToU (Oct 2025); generic no-advice; Fair Housing Classifier is OPERATIONAL not contractual
+Redfin,real-estate,generative,silent,0,0,0,none,none,exposed,AI-silent ToU (Sept 2025); generic AS-IS + B8; Ask Redfin marketed Fair-Housing-tested
+Deutsche Telekom,telecom,generative,dedicated,3,2,2,none,brand-binding,warned,dedicated AGB Magenta AI (Aug 2025): B6 inaccurate/hallucinations + directive verify + no-advice; B2 LoL
+Airbnb,travel-ota,generative,integrated,2,2,2,none,category-binding,warned,ToS Sec9: no accuracy guarantee for generated Content + members must confirm accuracy (B6+B4+B3)
+Hims & Hers,healthcare,generative,integrated,2,2,1,human-review,category-binding,warned,ToS: AI makes no clinical decisions; clinician reviews/approves all messages; provider responsible; FTC privacy action
+Priceline,travel-ota,agentic,peripheral,1,1,0,none,brand-elsewhere,peripheral,Penny microcopy 'can make mistakes'; Claude-powered agentic; dedicated terms not isolated
+Chime,banking,generative,peripheral,1,1,1,human-in-loop,brand-elsewhere,peripheral,disclosures no-advice + humans-in-loop for money movement; Jade agent; no dedicated output disclaimer
+Monzo,banking,generative,peripheral,1,0,1,none,brand-elsewhere,peripheral,support-agent output disclaimer not located; robust decisional B11 (credit-decision manual review + challenge)
+Nubank,banking,generative,peripheral,1,0,1,none,brand-elsewhere,peripheral,GPT-4o assistant output disclaimer not located; B11 present (LGPD Art.22 solely-automated right)
+Telefonica,telecom,generative,peripheral,1,0,1,none,brand-elsewhere,peripheral,Aura generative + AI-ethics; output disclaimer not located; B11 present (GDPR solely-automated right)
+Trip.com,travel-ota,generative,peripheral,1,0,0,none,brand-elsewhere,peripheral,TripGenie; privacy denies qualifying ADM + no-AI-training; output disclaimer not located
+Skyscanner,travel-ota,generative,peripheral,1,0,0,none,brand-elsewhere,peripheral,Savvy Search + ChatGPT app; privacy addresses genAI/data (no third-party training); no output disclaimer/ADM regime located
+Zoopla,real-estate,generative,silent,0,0,0,none,none,exposed,OpenAI deal; terms carry only a third-party-AI carve-out + anti-scraping; own AI ungoverned

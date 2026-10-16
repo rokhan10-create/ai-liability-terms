@@ -1,0 +1,134 @@
+company,sample,locus,disclosure,disclaimer,responsibility,cluster,s_disclaimer_families,s_responsibility,b5_s,b5_own,n_binding
+1-800-Flowers.com,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+2U (edX),supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+AT&T,main,Silent,0,1,1,Exposed,0,0,False,False,2
+Abercrombie & Fitch,main,Dedicated,3,3,2,Fortified,3,1,False,False,1
+Airbnb,supplementary,Dedicated,2,3,1,Warned,2,0,False,False,1
+Alaska (+ Hawaiian),main,Peripheral,1,1,1,Peripheral,0,0,False,False,1
+Albertsons Companies,main,Silent,1,1,1,Exposed,0,0,False,False,2
+Ally Financial,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+American,main,Dedicated,2,3,2,Fortified,3,1,True,False,1
+American Eagle Outfitters,main,Dedicated,2,3,1,Warned,3,0,False,False,1
+AvalonBay Communities,supplementary,Dedicated,2,3,2,Fortified,3,1,False,False,1
+Avis Budget Group,supplementary,Silent,1,1,1,Exposed,0,0,False,False,1
+BJ's Wholesale Club,main,Dedicated,2,3,1,Warned,2,0,False,False,1
+Bank of America,main,Dedicated,3,3,3,Agentic-shift,2,2,True,True,1
+Barnes & Noble,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Bath & Body Works,main,Dedicated,2,3,1,Warned,2,0,False,False,1
+Best Buy,supplementary,Dedicated,2,3,3,Fortified,2,2,True,False,1
+Block (Cash App),supplementary,Dedicated,2,3,3,Agentic-shift,3,2,True,True,1
+Bob's Discount Furniture,main,Dedicated,2,1,1,Exposed,0,0,False,False,1
+Booking.com,supplementary,Silent,2,1,1,Exposed,0,0,True,False,1
+CVS Health,supplementary,Dedicated,3,2,0,Warned,1,0,False,False,3
+Caesars Entertainment,main,Silent,0,1,1,Exposed,0,0,False,False,1
+Camping World,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Capital One,supplementary,Silent,1,0,0,Exposed,0,0,False,False,0
+CarMax,main,Dedicated,2,3,2,Fortified,2,1,False,False,1
+Carvana,main,Dedicated,2,3,1,Warned,2,0,False,False,1
+Casey's,main,Silent,0,1,1,Exposed,0,0,False,False,1
+Centene,main,Silent,0,1,1,Exposed,0,0,False,False,1
+Charles Schwab,supplementary,Silent,1,1,1,Exposed,0,0,False,False,1
+Chegg,supplementary,Dedicated,2,3,3,Agentic-shift,3,2,True,True,1
+Chime,supplementary,Silent,1,1,1,Exposed,0,0,False,False,1
+Chipotle,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Citigroup,main,Silent,0,0,0,Exposed,0,0,False,False,0
+Comcast,main,Peripheral,1,1,1,Peripheral,0,0,False,False,1
+Coursera,supplementary,Dedicated,2,3,0,Warned,3,0,False,False,1
+Cox Communications,main,Silent,2,1,1,Exposed,0,0,False,False,1
+Delta,main,Dedicated,2,3,2,Fortified,3,1,False,False,2
+Dick's Sporting Goods,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Domino's,main,Peripheral,1,0,0,Peripheral,0,0,False,False,0
+DoorDash,supplementary,Integrated-generic,2,2,1,Warned,1,0,False,False,1
+Duke Energy,main,Silent,1,1,0,Exposed,0,0,False,False,1
+Edison International,main,Silent,0,1,0,Exposed,0,0,False,False,1
+Electronic Arts,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Elevance Health,main,Silent,2,1,0,Exposed,0,0,True,False,1
+Equity Residential,supplementary,Dedicated,2,3,2,Fortified,3,1,False,False,1
+Exelon,main,Dedicated,2,3,3,Agentic-shift,2,2,True,True,1
+Expedia,supplementary,Dedicated,3,3,0,Warned,2,0,False,False,1
+FedEx,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Fidelity Investments,supplementary,Dedicated,2,3,1,Warned,2,0,False,False,1
+Frontier,main,Peripheral,1,1,0,Peripheral,0,0,False,False,1
+Gap Inc.,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Gen Digital,supplementary,Dedicated,3,3,0,Warned,2,0,False,False,1
+Giant Eagle,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Greystar,supplementary,Silent,1,1,0,Exposed,0,0,False,False,1
+H&R Block,supplementary,Dedicated,3,3,3,Agentic-shift,3,2,True,True,2
+Hilton,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Hims & Hers,main,Dedicated,2,2,1,Warned,1,0,True,False,1
+Home Depot,main,Integrated-generic,2,3,1,Warned,2,0,False,False,2
+Hyatt Hotels,main,Silent,0,1,1,Exposed,0,0,False,False,1
+Instacart,supplementary,Dedicated,2,3,2,Fortified,2,1,True,False,1
+Intuit,supplementary,Dedicated,2,2,3,Agentic-shift,1,2,True,True,1
+J.Crew Group,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Kampgrounds of America,supplementary,Peripheral,1,1,1,Peripheral,0,0,False,False,1
+Kendra Scott,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Kinney Drugs,main,Dedicated,3,3,2,Fortified,3,1,False,False,2
+Labcorp,supplementary,Dedicated,2,3,2,Fortified,2,1,False,False,1
+LegalZoom,supplementary,Dedicated,3,3,1,Warned,2,0,False,False,3
+Liberty Media,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Life Time Group Holdings,supplementary,Dedicated,2,3,2,Fortified,3,1,False,False,1
+Live Nation Entertainment,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Lowe's,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Lyft,supplementary,Integrated-generic,2,1,1,Exposed,0,0,False,False,1
+Macy's,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Marriott,main,Dedicated,3,3,3,Fortified,3,2,False,False,2
+Match Group,supplementary,Dedicated,2,1,2,Warned,0,1,True,False,2
+McDonald's,main,Silent,1,0,0,Exposed,0,0,False,False,0
+MetLife,main,Silent,1,1,0,Exposed,0,0,False,False,2
+Metropolis Technologies,supplementary,Silent,3,1,0,Exposed,0,0,False,False,1
+Michaels,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Neighborly,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Nerdy,supplementary,Dedicated,2,1,1,Exposed,0,0,False,False,1
+Netflix,supplementary,Silent,2,1,0,Exposed,0,0,False,False,1
+Newegg Commerce,supplementary,Silent,1,1,1,Exposed,0,0,False,False,1
+NiSource,supplementary,Integrated-generic,2,1,0,Exposed,0,0,False,False,1
+Nordstrom,supplementary,Integrated-generic,2,3,1,Warned,2,0,False,False,1
+Norwegian Cruise Line Holdings,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+ODP Corp,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+PG&E,main,Silent,0,0,0,Exposed,0,0,False,False,0
+PayPal Holdings,supplementary,Peripheral,2,1,0,Peripheral,0,0,False,False,1
+Pinterest,supplementary,Peripheral,1,1,0,Peripheral,0,0,False,False,1
+Publix,main,Peripheral,2,1,0,Peripheral,0,0,False,False,1
+Quest Diagnostics,supplementary,Peripheral,1,1,0,Peripheral,0,0,False,False,0
+Remitly Global,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Roblox,supplementary,Dedicated,2,3,2,Fortified,2,1,False,False,1
+Rocket Companies,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Rocket Lawyer,supplementary,Dedicated,3,3,2,Fortified,3,1,False,False,2
+Roku,supplementary,Silent,0,1,0,Exposed,0,0,False,False,2
+Royal Caribbean Group,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Signet Jewelers,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Six Flags Entertainment,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Snap,supplementary,Dedicated,3,3,2,Fortified,2,1,False,False,1
+Southwest Airlines,main,Silent,1,1,0,Exposed,0,0,False,False,1
+State Farm,main,Silent,0,1,1,Exposed,0,0,False,False,1
+Synchrony Financial,supplementary,Silent,0,1,1,Exposed,0,0,False,False,2
+T-Mobile US,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Target,main,Dedicated,2,3,2,Fortified,2,1,True,False,1
+The Cigna Group,supplementary,Silent,2,1,0,Exposed,0,0,True,False,1
+ThredUp,supplementary,Dedicated,2,3,1,Warned,2,0,False,False,1
+Topgolf,supplementary,Silent,1,1,1,Exposed,0,0,False,False,1
+Tractor Supply,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1
+Tripadvisor,supplementary,Integrated-generic,2,2,2,Fortified,1,1,False,False,1
+Truist Financial,main,Silent,0,1,1,Exposed,0,0,False,False,1
+Turo,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+U.S. Bancorp,main,Dedicated,3,3,3,Agentic-shift,3,2,True,True,1
+UPS,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Uber Eats,supplementary,Integrated-generic,2,1,1,Exposed,0,0,False,False,1
+Ulta Beauty,main,Dedicated,3,3,3,Fortified,3,2,True,False,1
+United,main,Silent,1,1,0,Exposed,0,0,False,False,1
+UnitedHealth Group,main,Peripheral,1,1,0,Peripheral,0,0,False,False,2
+Upbound Group,supplementary,Silent,1,0,0,Exposed,0,0,False,False,1
+Vail Resorts,supplementary,Silent,0,1,0,Exposed,0,0,False,False,1
+Vanguard,main,Dedicated,2,3,2,Fortified,3,1,False,False,3
+Verizon,main,Peripheral,1,1,1,Peripheral,0,0,False,False,3
+Walmart,main,Dedicated,2,3,3,Fortified,3,2,False,False,1
+Warby Parker,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Wayfair,main,Dedicated,2,3,1,Warned,3,0,False,False,1
+Wegmans,main,Silent,1,1,1,Exposed,0,0,False,False,1
+Wells Fargo,main,Dedicated,2,2,0,Warned,1,0,False,False,2
+Williams-Sonoma,main,Dedicated,2,3,1,Warned,2,0,False,False,1
+Yum! Brands,main,Silent,1,0,0,Exposed,0,0,False,False,0
+Zillow,supplementary,Silent,1,1,1,Exposed,0,0,False,False,1
+eBay,main,Integrated-generic,2,2,2,Fortified,1,1,True,False,1
+eHealth,supplementary,Silent,0,1,1,Exposed,0,0,False,False,1

@@ -1,0 +1,139 @@
+doc_id,company,sample_group,doc_type,binding_v2,baseline_note,sent_2022,sent_current,pct_unchanged,pct_edited,pct_new,removed_2022,ai_sents,ai_preexisting,ai_retrofit,ai_new,thin_baseline
+ANF-01,Abercrombie & Fitch,main,t1-governing-terms,governs-ai-expressly,wayback 20220601023455 (on-or-before),148,199,34,13,53,54,19,0,1,18,False
+ALK-01,Alaska (+ Hawaiian),main,t2-site-terms,governs-surface,wayback 20221130175505 (on-or-before),149,96,91,6,3,56,0,0,0,0,False
+ACI-01,Albertsons Companies,main,t1-governing-terms,governs-surface,wayback 20221130011108 (on-or-before),464,586,37,24,39,121,0,0,0,0,False
+ACI-02,Albertsons Companies,main,t2-site-terms,governs-surface,wayback 20211102221657 (on-or-before),84,81,88,1,11,12,0,0,0,0,False
+AAL-01,American,main,t1-governing-terms,governs-ai-expressly,pilot baseline (reused),131,188,15,20,64,63,25,0,2,23,False
+BAC-01,Bank of America,main,t1-governing-terms,governs-ai-expressly,wayback 20221120164136 (on-or-before),453,646,58,7,35,43,2,0,0,2,False
+BBWI-01,Bath & Body Works,main,t1-governing-terms,governs-ai-expressly,wayback 20220514192945 (on-or-before),465,492,89,3,8,10,7,0,0,7,False
+BOB-01,Bob's Discount Furniture,main,t1-governing-terms,governs-ai-expressly,wayback 20221006015814 (on-or-before),111,141,66,5,29,11,2,0,1,1,False
+KMX-01,CarMax,main,t1-governing-terms,governs-ai-expressly,wayback 20221126071727 (on-or-before),334,284,36,29,36,138,11,0,0,11,False
+CVNA-01,Carvana,main,t1-governing-terms,governs-ai-expressly,wayback 20220915215906 (on-or-before),457,322,64,4,31,232,5,0,0,5,False
+CNC-01,Centene,main,t1-governing-terms,governs-surface,wayback 20221007021751 (on-or-before),115,123,93,0,7,1,0,0,0,0,False
+CMX-03,Comcast,main,t2-site-terms,governs-surface,wayback 20230329105415 (after),264,280,17,32,51,126,0,0,0,0,False
+DAL-02,Delta,main,t2-site-terms,governs-surface,pilot baseline (reused),36,39,92,3,5,0,0,0,0,0,False
+DUK-01,Duke Energy,main,t1-governing-terms,governs-surface,wayback 20221127121736 (on-or-before),208,207,99,0,0,2,0,0,0,0,False
+ELV-01,Elevance Health,main,t1-governing-terms,governs-surface,wayback 20221128152022 (on-or-before),128,135,93,1,7,2,1,0,0,1,False
+FRO-01,Frontier,main,t2-site-terms,governs-surface,pilot baseline (reused),13,13,100,0,0,0,0,0,0,0,True
+GAP-01,Gap Inc.,main,t1-governing-terms,governs-surface,wayback 20221130012027 (on-or-before),117,181,46,3,51,32,0,0,0,0,False
+GE-01,Giant Eagle,main,t1-governing-terms,governs-surface,wayback 20221001015937 (on-or-before),447,453,92,3,5,17,0,0,0,0,False
+HIL-02,Hilton,main,t2-site-terms,governs-surface,pilot baseline (reused),168,165,100,0,0,3,0,0,0,0,False
+HD-01,Home Depot,main,t1-governing-terms,governs-ai-expressly,"wayback 20221130131408 (on-or-before), text-only",86,119,35,22,43,17,12,0,1,11,False
+HD-06,Home Depot,main,t1-governing-terms,governs-ai-expressly,pilot baseline (reused),86,119,35,22,43,17,12,0,1,11,False
+JCR-01,J.Crew Group,main,t1-governing-terms,governs-surface,"wayback 20221107200447 (on-or-before), text-only",150,203,52,3,45,38,0,0,0,0,False
+LOW-01,Lowe's,main,t1-governing-terms,governs-surface,pilot baseline (reused),357,469,51,16,33,66,2,0,0,2,False
+MAR-01,Marriott,main,t1-governing-terms,governs-ai-expressly,pilot baseline (reused),144,186,23,8,70,88,24,0,1,23,False
+MAR-02,Marriott,main,t1-governing-terms,governs-ai-expressly,"wayback 20221201193220 (after), text-only",187,196,81,7,12,13,9,0,2,7,False
+LUV-01,Southwest Airlines,main,t1-governing-terms,governs-surface,"wayback 20221201151541 (after), text-only",148,141,100,0,0,5,0,0,0,0,False
+TMUS-01,T-Mobile US,main,t1-governing-terms,governs-surface,"wayback 20221201092025 (after), text-only",322,344,31,28,42,121,0,0,0,0,False
+TGT-01,Target,main,t1-governing-terms,governs-surface,pilot baseline (reused),392,527,57,9,34,66,14,0,1,13,False
+TFC-01,Truist Financial,main,t1-governing-terms,governs-surface,"wayback 20221220233524 (after), text-only",938,1137,70,8,22,72,0,0,0,0,False
+USB-01,U.S. Bancorp,main,t1-governing-terms,governs-ai-expressly,"wayback 20230103225554 (after), text-only",658,830,46,16,38,156,7,2,1,4,False
+ULTA-01,Ulta Beauty,main,t1-governing-terms,governs-ai-expressly,"wayback 20221203213133 (after), text-only",137,193,64,5,31,4,17,0,3,14,False
+UNH-01,UnitedHealth Group,main,t1-governing-terms,governs-surface,"wayback 20221207090900 (after), text-only",112,139,22,11,68,66,0,0,0,0,False
+VGD-01,Vanguard,main,t3-dedicated-ai-doc,governs-ai-expressly,"wayback 20221129150332 (on-or-before), text-only",453,458,52,4,44,203,80,0,4,76,False
+VGD-03,Vanguard,main,t3-dedicated-ai-doc,governs-ai-expressly,"wayback 20221129150332 (on-or-before), text-only",453,458,52,4,44,203,80,0,4,76,False
+VZ-05,Verizon,main,t1-governing-terms,governs-surface,"wayback 20230325151607 (after), text-only",26,24,58,21,21,8,0,0,0,0,False
+VZ-06,Verizon,main,t1-governing-terms,governs-surface,"wayback 20230322000938 (after), text-only",78,38,42,18,39,54,0,0,0,0,False
+WMT-01,Walmart,main,t1-governing-terms,governs-ai-expressly,pilot baseline (reused),311,407,59,7,33,43,24,0,2,22,False
+WRBY-01,Warby Parker,main,t1-governing-terms,governs-surface,"wayback 20221126092549 (on-or-before), text-only",240,264,78,5,17,22,0,0,0,0,False
+WEG-01,Wegmans,main,t1-governing-terms,governs-surface,"wayback 20221209225156 (after), text-only",269,289,76,9,16,26,0,0,0,0,False
+WFC-01,Wells Fargo,main,t1-governing-terms,governs-ai-expressly,pilot baseline (reused),761,898,64,11,25,94,3,2,0,1,False
+WFC-02,Wells Fargo,main,t2-site-terms,governs-ai-expressly,pilot baseline (reused),69,77,79,6,14,4,3,2,0,1,False
+WSM-01,Williams-Sonoma,main,t1-governing-terms,governs-ai-expressly,"wayback 20221204003608 (after), text-only",322,452,56,8,36,36,4,0,0,4,False
+T-02,AT&T,main,t2-site-terms,governs-surface-partial,"wayback 20221201044641 (after), text-only",152,153,99,0,1,0,0,0,0,0,False
+CZR-01,Caesars Entertainment,main,t1-governing-terms,governs-surface-partial,"wayback 20221207205748 (after), text-only",147,117,98,2,0,30,0,0,0,0,False
+CASY-01,Casey's,main,t1-governing-terms,governs-surface-partial,"wayback 20221127083410 (on-or-before), text-only",174,271,38,7,56,55,0,0,0,0,False
+MET-01,MetLife,main,t2-site-terms,governs-surface-partial,"wayback 20221206093302 (after), text-only",88,90,93,0,7,3,0,0,0,0,False
+STF-01,State Farm,main,t1-governing-terms,governs-surface-partial,"wayback 20221203002839 (after), text-only",80,74,100,0,0,6,0,0,0,0,False
+UAL-01,United,main,t2-site-terms,governs-surface-partial,pilot baseline (reused),60,65,83,6,11,3,0,0,0,0,False
+VGD-04,Vanguard,main,t2-site-terms,governs-surface-partial,"wayback 20221129150332 (on-or-before), text-only",453,458,52,4,44,203,80,0,4,76,False
+CNC-02,Centene,main,privacy-notice,notice-not-contract,"wayback 20221209054023 (after), text-only",68,160,1,1,98,65,0,0,0,0,False
+CMX-02,Comcast,main,privacy-notice,notice-not-contract,"wayback 20221130222042 (on-or-before), text-only",211,203,66,13,21,50,0,0,0,0,False
+DAL-03,Delta,main,privacy-notice,notice-not-contract,pilot baseline (reused),358,245,82,8,11,123,0,0,0,0,False
+ELV-02,Elevance Health,main,privacy-notice,notice-not-contract,"wayback 20221128152029 (on-or-before), text-only",120,190,55,6,38,3,0,0,0,0,False
+FRO-02,Frontier,main,privacy-notice,notice-not-contract,pilot baseline (reused),70,153,35,7,58,6,4,0,0,4,False
+HIL-04,Hilton,main,privacy-notice,notice-not-contract,"wayback 20221201145409 (after), text-only",223,465,30,10,60,55,2,0,0,2,False
+HD-04,Home Depot,main,privacy-notice,notice-not-contract,"wayback 20221130160219 (on-or-before), text-only",200,237,67,9,24,19,0,0,0,0,False
+MAR-03,Marriott,main,privacy-notice,notice-not-contract,"wayback 20221203233317 (after), text-only",234,280,52,21,26,30,7,0,4,3,False
+MET-03,MetLife,main,privacy-notice,notice-not-contract,"wayback 20221201212552 (after), text-only",80,87,25,18,56,40,1,0,0,1,False
+STF-02,State Farm,main,privacy-notice,notice-not-contract,"wayback 20221202031500 (after), text-only",61,58,86,7,7,7,0,0,0,0,False
+TGT-02,Target,main,privacy-notice,notice-not-contract,"wayback 20221201040526 (after), text-only",184,203,51,15,34,59,1,0,0,1,False
+ULTA-03,Ulta Beauty,main,privacy-notice,notice-not-contract,"wayback 20221201004907 (after), text-only",220,303,14,8,78,151,31,0,0,31,False
+UNH-05,UnitedHealth Group,main,privacy-notice,notice-not-contract,"wayback 20221130232834 (on-or-before), text-only",86,153,26,18,56,19,0,0,0,0,False
+VZ-02,Verizon,main,privacy-notice,notice-not-contract,"wayback 20221130112126 (on-or-before), text-only",258,497,29,14,58,59,6,0,1,5,False
+WMT-02,Walmart,main,privacy-notice,notice-not-contract,"wayback 20230101082341 (after), text-only",161,246,4,9,87,126,5,0,0,5,False
+WRBY-02,Warby Parker,main,privacy-notice,notice-not-contract,"wayback 20221129193111 (on-or-before), text-only",146,220,25,15,60,57,1,0,0,1,False
+WEG-02,Wegmans,main,privacy-notice,notice-not-contract,"wayback 20220823191742 (on-or-before), text-only",65,122,21,13,66,23,7,0,0,7,False
+WFC-03,Wells Fargo,main,privacy-notice,notice-not-contract,"wayback 20230130164619 (after), text-only",34,39,74,13,13,0,0,0,0,0,False
+CMX-04,Comcast,main,t1-governing-terms,adjacent-not-governing,"wayback 20221203005052 (after), text-only",335,358,86,4,9,12,2,0,0,2,False
+LUV-02,Southwest Airlines,main,contract-of-carriage,adjacent-not-governing,"wayback 20221201151528 (after), text-only",300,299,70,15,16,46,0,0,0,0,False
+HIL-01,Hilton,main,t3-dedicated-ai-doc,no-reach,"wayback 20230112045553 (after), text-only",174,240,20,5,74,113,20,0,0,20,False
+MCD-01,McDonald's,main,t1-governing-terms,no-reach,"wayback 20221129203041 (on-or-before), text-only",420,412,50,11,39,107,0,0,0,0,False
+FLWS-01,1-800-Flowers.com,supplementary,t1-governing-terms,governs-surface,"wayback 20221213224653 (after), text-only",171,171,89,5,6,11,0,0,0,0,False
+TWOU-01,2U (edX),supplementary,t1-governing-terms,governs-surface,"wayback 20221203082237 (after), text-only",114,313,4,2,94,95,4,0,0,4,False
+ABB-01,Airbnb,supplementary,t1-governing-terms,governs-surface,"wayback 20221127164754 (on-or-before), text-only",394,611,53,16,32,38,0,0,0,0,False
+AVB-01,AvalonBay Communities,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221205201611 (after), text-only",239,234,16,16,68,165,13,0,0,13,False
+CAR-01,Avis Budget Group,supplementary,t1-governing-terms,governs-surface,"wayback 20221130061145 (on-or-before), text-only",142,170,9,12,78,105,0,0,0,0,False
+BBY-01,Best Buy,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221201185155 (after), text-only",142,192,33,14,53,52,6,0,2,4,False
+XYZ-01,Block (Cash App),supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221126232832 (on-or-before), text-only",692,1492,17,20,62,167,50,0,6,44,False
+CVS-01,CVS Health,supplementary,t1-governing-terms,governs-surface,"wayback 20221205122718 (after), text-only",150,268,38,4,58,35,0,0,0,0,False
+CVS-02,CVS Health,supplementary,t1-governing-terms,governs-surface,"wayback 20230130221028 (after), text-only",76,182,16,5,79,37,0,0,0,0,False
+CWH-01,Camping World,supplementary,t1-governing-terms,governs-surface,"wayback 20221126221358 (on-or-before), text-only",94,128,65,3,32,3,0,0,0,0,False
+SCHW-01,Charles Schwab,supplementary,t1-governing-terms,governs-surface,"wayback 20221205165523 (after), text-only",150,148,86,9,5,10,0,0,0,0,False
+COUR-01,Coursera,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221129191525 (on-or-before), text-only",236,276,50,7,43,80,9,0,2,7,False
+EQR-01,Equity Residential,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221022032600 (on-or-before), text-only",123,234,5,6,89,97,14,0,0,14,False
+FDX-01,FedEx,supplementary,t1-governing-terms,governs-surface,"wayback 20221128055334 (on-or-before), text-only",173,175,98,0,2,1,0,0,0,0,False
+FID-01,Fidelity Investments,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221204215653 (after), text-only",117,129,11,18,71,81,7,0,0,7,False
+HRB-01,H&R Block,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221127021515 (on-or-before), text-only",156,126,87,1,13,45,3,0,0,3,False
+INS-01,Instacart,supplementary,t1-governing-terms,governs-ai-expressly,pilot baseline (reused),253,422,3,15,82,174,22,0,0,22,False
+KOA-01,Kampgrounds of America,supplementary,t1-governing-terms,governs-surface,"wayback 20221016222413 (on-or-before), text-only",81,83,87,2,11,7,4,0,0,4,False
+KS-01,Kendra Scott,supplementary,t1-governing-terms,governs-surface,"wayback 20221108141906 (on-or-before), text-only",257,333,43,12,45,80,0,0,0,0,False
+LH-01,Labcorp,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221207202158 (after), text-only",141,354,2,14,84,87,13,0,2,11,False
+LZ-02,LegalZoom,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221201182507 (after), text-only",169,168,35,5,61,105,3,0,0,3,False
+LZ-03,LegalZoom,supplementary,t2-site-terms,governs-surface,"wayback 20221201182341 (after), text-only",207,195,72,1,27,65,2,0,0,2,False
+LTH-01,Life Time Group Holdings,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221128143921 (on-or-before), text-only",110,159,71,15,14,4,6,0,0,6,False
+LYFT-01,Lyft,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221203044357 (after), text-only",455,560,55,18,27,54,3,1,1,1,False
+MTCH-01,Match Group,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221205151442 (after), text-only",282,453,28,18,54,87,8,0,2,6,False
+MTCH-02,Match Group,supplementary,t1-governing-terms,governs-surface,"wayback 20221204041633 (after), text-only",373,460,64,13,23,23,2,0,0,2,False
+MET-P-01,Metropolis Technologies,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221121121735 (on-or-before), text-only",216,362,1,8,91,186,4,0,0,4,False
+NRDY-01,Nerdy,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221022173138 (on-or-before), text-only",240,253,88,5,7,3,2,0,0,2,False
+NFLX-01,Netflix,supplementary,t1-governing-terms,governs-surface,"wayback 20221203152108 (after), text-only",140,269,27,9,64,44,0,0,0,0,False
+NEGG-01,Newegg Commerce,supplementary,t1-governing-terms,governs-surface,"wayback 20221130185754 (on-or-before), text-only",266,279,84,8,9,10,0,0,0,0,False
+ODP-01,ODP Corp,supplementary,t1-governing-terms,governs-surface,"wayback 20220530195437 (on-or-before), text-only",134,134,81,14,4,9,0,0,0,0,False
+PINS-01,Pinterest,supplementary,t1-governing-terms,governs-surface,"wayback 20221201024843 (after), text-only",110,184,22,19,59,33,0,0,0,0,False
+RELY-01,Remitly Global,supplementary,t1-governing-terms,governs-surface,"wayback 20221128105928 (on-or-before), text-only",169,304,14,10,75,95,0,0,0,0,False
+RKT-01,Rocket Companies,supplementary,t1-governing-terms,governs-surface,"wayback 20221208224005 (after), text-only",129,134,1,3,96,122,0,0,0,0,False
+RL-02,Rocket Lawyer,supplementary,t1-governing-terms,governs-surface,"wayback 20221201102303 (after), text-only",272,280,79,11,10,19,1,0,0,1,False
+ROKU-01,Roku,supplementary,t1-governing-terms,governs-surface,"wayback 20230227005830 (after), text-only",49,50,94,2,4,1,0,0,0,0,False
+RCL-01,Royal Caribbean Group,supplementary,t1-governing-terms,governs-surface,"wayback 20221126121233 (on-or-before), text-only",191,294,55,2,42,21,0,0,0,0,False
+SIG-01,Signet Jewelers,supplementary,t1-governing-terms,governs-surface,"wayback 20221204043800 (after), text-only",128,189,56,2,43,20,0,0,0,0,False
+FUN-01,Six Flags Entertainment,supplementary,t1-governing-terms,governs-surface,"wayback 20221204083607 (after), text-only",167,216,52,12,36,27,0,0,0,0,False
+SNAP-01,Snap,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221130072247 (on-or-before), text-only",269,434,40,12,47,50,18,0,1,17,False
+TDUP-01,ThredUp,supplementary,t1-governing-terms,governs-ai-expressly,"wayback 20221113100532 (on-or-before), text-only",273,341,65,1,33,44,14,0,1,13,False
+TSCO-01,Tractor Supply,supplementary,t1-governing-terms,governs-surface,"wayback 20230427122047 (after), text-only",201,304,53,1,46,36,0,0,0,0,False
+TRP-01,Tripadvisor,supplementary,t2-site-terms,governs-ai-expressly,"wayback 20221201052633 (after), text-only",248,376,51,9,40,22,2,0,1,1,False
+TURO-01,Turo,supplementary,t1-governing-terms,governs-surface,"wayback 20221128012240 (on-or-before), text-only",347,397,64,10,26,53,0,0,0,0,False
+UBR-01,Uber Eats,supplementary,t1-governing-terms,governs-surface,pilot baseline (reused),292,404,46,13,41,55,8,0,0,8,False
+GRY-01,Greystar,supplementary,t2-site-terms,governs-surface-partial,"wayback 20221128201303 (on-or-before), text-only",62,61,92,7,2,2,0,0,0,0,False
+NBR-01,Neighborly,supplementary,t1-governing-terms,governs-surface-partial,"wayback 20221207205045 (after), text-only",158,156,73,6,21,33,0,0,0,0,False
+TG-01,Topgolf,supplementary,t1-governing-terms,governs-surface-partial,"wayback 20221205013601 (after), text-only",104,162,38,10,51,25,0,0,0,0,False
+MTN-01,Vail Resorts,supplementary,t1-governing-terms,governs-surface-partial,"wayback 20221225041654 (after), text-only",635,237,94,3,4,406,0,0,0,0,False
+ABB-02,Airbnb,supplementary,privacy-notice,notice-not-contract,"wayback 20221205221524 (after), text-only",153,167,22,22,56,79,6,0,1,5,False
+AVB-02,AvalonBay Communities,supplementary,privacy-notice,notice-not-contract,"wayback 20221106233900 (on-or-before), text-only",120,181,2,3,94,110,1,0,0,1,False
+CAR-02,Avis Budget Group,supplementary,privacy-notice,notice-not-contract,"wayback 20221130074559 (on-or-before), text-only",269,275,53,9,39,97,1,1,0,0,False
+CHG-02,Chegg,supplementary,privacy-notice,notice-not-contract,"wayback 20221102005741 (on-or-before), text-only",168,399,0,1,99,166,14,0,0,14,False
+CHM-02,Chime,supplementary,privacy-notice,notice-not-contract,"wayback 20221113093232 (on-or-before), text-only",135,241,30,11,59,45,2,0,1,1,False
+EQR-02,Equity Residential,supplementary,privacy-notice,notice-not-contract,"wayback 20221208151941 (after), text-only",149,178,1,3,96,141,3,0,1,2,False
+GRY-03,Greystar,supplementary,privacy-notice,notice-not-contract,"wayback 20221204051156 (after), text-only",135,167,59,17,24,11,6,0,1,5,False
+INS-02,Instacart,supplementary,privacy-notice,notice-not-contract,"wayback 20221129223744 (on-or-before), text-only",151,231,5,11,84,113,1,0,0,1,False
+KS-02,Kendra Scott,supplementary,privacy-notice,notice-not-contract,"wayback 20221006125159 (on-or-before), text-only",110,136,40,7,53,47,0,0,0,0,False
+MET-P-02,Metropolis Technologies,supplementary,privacy-notice,notice-not-contract,"wayback 20221121154939 (on-or-before), text-only",152,167,1,4,95,143,2,0,0,2,False
+TG-02,Topgolf,supplementary,privacy-notice,notice-not-contract,"wayback 20221130042206 (on-or-before), text-only",218,524,1,3,96,204,0,0,0,0,False
+TRP-03,Tripadvisor,supplementary,privacy-notice,notice-not-contract,"wayback 20221201040652 (after), text-only",205,294,37,19,44,61,0,0,0,0,False
+UBR-03,Uber Eats,supplementary,privacy-notice,notice-not-contract,"wayback 20221130233527 (on-or-before), text-only",179,268,10,8,82,132,6,1,0,5,False
+CVS-04,CVS Health,supplementary,t2-site-terms,no-reach,"wayback 20221209144206 (after), text-only",161,256,12,7,81,112,0,0,0,0,False
+CVS-05,CVS Health,supplementary,t1-governing-terms,no-reach,"wayback 20221126101134 (on-or-before), text-only",205,227,21,11,68,142,0,0,0,0,False
+COF-01,Capital One,supplementary,t1-governing-terms,no-reach,"wayback 20221201065310 (after), text-only",75,87,78,5,17,3,1,0,0,1,False
+GRY-02,Greystar,supplementary,t1-governing-terms,no-reach,"wayback 20230320214638 (after), text-only",87,119,41,16,43,18,0,0,0,0,False
+DGX-01,Quest Diagnostics,supplementary,t1-governing-terms,no-reach,"wayback 20220903222600 (on-or-before), text-only",139,160,77,4,19,10,0,0,0,0,False

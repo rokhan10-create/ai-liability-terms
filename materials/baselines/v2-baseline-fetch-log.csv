@@ -1,0 +1,236 @@
+T-01,AT&T,https://www.att.com/legal/terms.AttappEULA.html,NO-SNAPSHOT,,,,,2026-10-10T04:11:47Z
+ANF-01,Abercrombie & Fitch,https://www.abercrombie.com/shop/CustomerService?pageName=site-use&textKey=LEGAL_SITE_USE&storeId=10051&catalogId=10901&langId=-1,NO-SNAPSHOT,,,,,2026-10-10T04:13:16Z
+ALK-01,Alaska (+ Hawaiian),https://www.alaskaair.com/content/legal/website-terms-of-use,OK,20221130175505,on-or-before,previous-tos/airlines/alaska-hawaiian/alk-01-alaska-website-terms-of-use_20221130175505_RAW.html,43730,2026-10-10T04:13:27Z
+ACI-01,Albertsons Companies,https://www.albertsonscompanies.com/policies-and-disclosures/terms-of-use/default.aspx,OK,20221130011108,on-or-before,previous-tos/grocery/albertsons-companies/aci-01-albertsons-companies-terms-of-use-all-banners_20221130011108_RAW.html,104478,2026-10-10T04:14:06Z
+ACI-02,Albertsons Companies,https://www.safeway.com/terms-of-use.html,OK,20211102221657,on-or-before,previous-tos/grocery/albertsons-companies/aci-02-safeway-legacy-terms-of-use-page_20211102221657_RAW.html,23623,2026-10-10T04:16:47Z
+doc_id,company,url,result,snapshot_ts,side,file,plaintext_chars,logged_utc
+T-01,AT&T,https://www.att.com/legal/terms.AttappEULA.html,NO-SNAPSHOT,,,,,2026-10-10T04:18:05Z
+ANF-01,Abercrombie & Fitch,https://www.abercrombie.com/shop/CustomerService?pageName=site-use&textKey=LEGAL_SITE_USE&storeId=10051&catalogId=10901&langId=-1,NO-SNAPSHOT,,,,,2026-10-10T04:18:31Z
+ALK-01,Alaska (+ Hawaiian),https://www.alaskaair.com/content/legal/website-terms-of-use,OK,20221130175505,on-or-before,previous-tos/airlines/alaska-hawaiian/alk-01-alaska-website-terms-of-use_20221130175505_RAW.html,43730,2026-10-10T04:18:36Z
+AEO-01,American Eagle Outfitters,https://s7d2.scene7.com/is/content/aeo/Help/AEO_US_Terms_of_Use.pdf,NO-SNAPSHOT,,,,,2026-10-10T04:20:28Z
+BJS-01,BJ's Wholesale Club,https://www.bjs.com/info/terms-of-use/,NO-SNAPSHOT,,,,,2026-10-10T04:20:58Z
+ACI-01,Albertsons Companies,https://www.albertsonscompanies.com/policies-and-disclosures/terms-of-use/default.aspx,OK,20221130011108,on-or-before,previous-tos/grocery/albertsons-companies/aci-01-albertsons-companies-terms-of-use-all-banners_20221130011108_RAW.html,104478,2026-10-10T04:21:16Z
+BAC-01,Bank of America,https://www.bankofamerica.com/online-banking/service-agreement.go,OK,20221120164136,on-or-before,previous-tos/banking/bank-of-america/bac-01-online-banking-service-agreement-erica-section_20221120164136_RAW.html,103466,2026-10-10T04:21:23Z
+BBWI-01,Bath & Body Works,https://www.bathandbodyworks.com/customer-care/terms-of-use.html,OK,20220514192945,on-or-before,previous-tos/health-personal-care/bath-body-works/bbwi-01-terms-of-use-s-5-d-ai_20220514192945_RAW.html,106026,2026-10-10T04:21:44Z
+ACI-02,Albertsons Companies,https://www.safeway.com/terms-of-use.html,OK,20211102221657,on-or-before,previous-tos/grocery/albertsons-companies/aci-02-safeway-legacy-terms-of-use-page_20211102221657_RAW.html,23623,2026-10-10T04:22:42Z
+BOB-01,Bob's Discount Furniture,https://www.mybobs.com/terms-of-use,OK,20221006015814,on-or-before,previous-tos/furniture/bob-s-discount-furniture/bob-01-terms-of-use_20221006015814_RAW.html,26387,2026-10-10T04:23:11Z
+KMX-01,CarMax,https://www.carmax.com/terms,OK,20221126071727,on-or-before,previous-tos/auto-dealers/carmax/kmx-01-terms-of-use-s-4-artificial-intelligence_20221126071727_RAW.html,60030,2026-10-10T04:23:35Z
+CVNA-01,Carvana,https://www.carvana.com/terms-of-use,OK,20220915215906,on-or-before,previous-tos/auto-dealers/carvana/cvna-01-terms-of-use-user-agreement_20220915215906_RAW.html,116004,2026-10-10T04:24:02Z
+CNC-01,Centene,https://www.ambetterhealth.com/terms-conditions.html,OK,20221007021751,on-or-before,previous-tos/insurance/centene/cnc-01-ambetter-terms-conditions_20221007021751_RAW.html,30766,2026-10-10T04:24:35Z
+AEO-01,American Eagle Outfitters,https://s7d2.scene7.com/is/content/aeo/Help/AEO_US_Terms_of_Use.pdf,NO-SNAPSHOT,,,,,2026-10-10T04:24:39Z
+BJS-01,BJ's Wholesale Club,https://www.bjs.com/info/terms-of-use/,NO-SNAPSHOT,,,,,2026-10-10T04:25:01Z
+CMX-03,Comcast,https://www.xfinity.com/terms/web,OK,20230329105415,after,previous-tos/telecom/comcast/cmx-03-xfinity-web-services-terms-of-service_20230329105415_RAW.html,53510,2026-10-10T04:25:01Z
+BAC-01,Bank of America,https://www.bankofamerica.com/online-banking/service-agreement.go,OK,20221120164136,on-or-before,previous-tos/banking/bank-of-america/bac-01-online-banking-service-agreement-erica-section_20221120164136_RAW.html,103466,2026-10-10T04:25:13Z
+DAL-01,Delta,https://www.delta.com/us/en/legal/ai-terms-of-use,NO-SNAPSHOT,,,,,2026-10-10T04:25:34Z
+BBWI-01,Bath & Body Works,https://www.bathandbodyworks.com/customer-care/terms-of-use.html,OK,20220514192945,on-or-before,previous-tos/health-personal-care/bath-body-works/bbwi-01-terms-of-use-s-5-d-ai_20220514192945_RAW.html,106026,2026-10-10T04:25:35Z
+DUK-01,Duke Energy,https://www.duke-energy.com/legal/terms-of-use,OK,20221127121736,on-or-before,previous-tos/electric-utilities/duke-energy/duk-01-duke-energy-terms-of-use_20221127121736_RAW.html,46476,2026-10-10T04:25:52Z
+BOB-01,Bob's Discount Furniture,https://www.mybobs.com/terms-of-use,OK,20221006015814,on-or-before,previous-tos/furniture/bob-s-discount-furniture/bob-01-terms-of-use_20221006015814_RAW.html,26387,2026-10-10T04:26:12Z
+EIX-01,Edison International,https://www.sce.com/terms-conditions/website-terms-of-use,NO-SNAPSHOT,,,,,2026-10-10T04:30:06Z
+KMX-01,CarMax,https://www.carmax.com/terms,OK,20221126071727,on-or-before,previous-tos/auto-dealers/carmax/kmx-01-terms-of-use-s-4-artificial-intelligence_20221126071727_RAW.html,60030,2026-10-10T04:31:33Z
+ELV-01,Elevance Health,https://www.anthem.com/terms-of-use,OK,20221128152022,on-or-before,previous-tos/insurance/elevance-health/elv-01-anthem-terms-of-use_20221128152022_RAW.html,30798,2026-10-10T04:31:53Z
+CVNA-01,Carvana,https://www.carvana.com/terms-of-use,OK,20220915215906,on-or-before,previous-tos/auto-dealers/carvana/cvna-01-terms-of-use-user-agreement_20220915215906_RAW.html,116004,2026-10-10T04:31:58Z
+CNC-01,Centene,https://www.ambetterhealth.com/terms-conditions.html,OK,20221007021751,on-or-before,previous-tos/insurance/centene/cnc-01-ambetter-terms-conditions_20221007021751_RAW.html,30766,2026-10-10T04:33:29Z
+EXC-01,Exelon,https://www.exeloncorp.com/content/dam/exelon/company/Documents/Exelon%20Utilities%20Chat%20Bot%20Terms%20and%20Conditions.pdf,NO-SNAPSHOT,,,,,2026-10-10T04:33:56Z
+CMX-03,Comcast,https://www.xfinity.com/terms/web,OK,20230329105415,after,previous-tos/telecom/comcast/cmx-03-xfinity-web-services-terms-of-service_20230329105415_RAW.html,53510,2026-10-10T04:34:07Z
+GAP-01,Gap Inc.,https://www.gap.com/customerService/info.do?cid=6754,OK,20221130012027,on-or-before,previous-tos/clothing/gap-inc/gap-01-gap-terms-of-use_20221130012027_RAW.html,23809,2026-10-10T04:36:18Z
+GE-01,Giant Eagle,https://www.gianteagle.com/about-us/terms-of-use,OK,20221001015937,on-or-before,previous-tos/grocery/giant-eagle/ge-01-giant-eagle-terms-of-use_20221001015937_RAW.html,87307,2026-10-10T04:40:28Z
+HIM-01,Hims & Hers,https://www.hims.com/terms-and-conditions,CDX-429,,,,,2026-10-10T04:43:05Z
+HIM-01,Hims & Hers,https://www.hims.com/terms-and-conditions,CDX-429,,,,,2026-10-10T05:52:33Z
+HIM-01,Hims & Hers,https://www.hims.com/terms-and-conditions,CDX-429,,,,,2026-10-10T19:57:08Z
+HIM-01,Hims & Hers,https://www.hims.com/terms-and-conditions,CDX-429,,,,,2026-10-10T20:18:32Z
+HIM-01,Hims & Hers,https://www.hims.com/terms-and-conditions,CDX-UNVERIFIED,,,,,2026-10-10T20:24:56Z
+HD-01,Home Depot,https://www.homedepot.com/c/Terms_of_Use,CDX-429,,,,,2026-10-10T20:24:58Z
+T-01,AT&T,https://www.att.com/legal/terms.AttappEULA.html,NOT-ARCHIVED,,,,,2026-10-10T20:46:02Z
+AEO-01,American Eagle Outfitters,https://s7d2.scene7.com/is/content/aeo/Help/AEO_US_Terms_of_Use.pdf,NO-SNAPSHOT-IN-WINDOW,20240812192502,,,,2026-10-10T20:47:22Z
+ANF-01,Abercrombie & Fitch,https://www.abercrombie.com/shop/CustomerService?pageName=site-use&textKey=LEGAL_SITE_USE&storeId=10051&catalogId=10901&langId=-1,OK,20220601023455,on-or-before,previous-tos/clothing/abercrombie-fitch/anf-01-website-app-terms-of-use-ai-tools_20220601023455_RAW.html,37652,2026-10-10T20:48:16Z
+BJS-01,BJ's Wholesale Club,https://www.bjs.com/info/terms-of-use/,NO-SNAPSHOT-IN-WINDOW,20250529103110,,,,2026-10-12T05:54:50Z
+DAL-01,Delta,https://www.delta.com/us/en/legal/ai-terms-of-use,NO-SNAPSHOT-IN-WINDOW,20250207024638,,,,2026-10-12T06:10:48Z
+EIX-01,Edison International,https://www.sce.com/terms-conditions/website-terms-of-use,NO-SNAPSHOT-IN-WINDOW,20250612000730,,,,2026-10-12T06:19:49Z
+HIM-01,Hims & Hers,https://www.hims.com/terms-and-conditions,NO-SNAPSHOT-IN-WINDOW,20230913183527,,,,2026-10-12T06:20:05Z
+H-01,Hyatt Hotels,https://www.hyatt.com/help/terms,NO-SNAPSHOT-IN-WINDOW,20260430171124,,,,2026-10-12T06:23:09Z
+KD-01,Kinney Drugs,https://www.kinneydrugs.com/kxterms/,NO-SNAPSHOT-IN-WINDOW,20260513003915,,,,2026-10-12T06:23:52Z
+KD-02,Kinney Drugs,https://www.kinneydrugs.com/burt-terms/,NO-SNAPSHOT-IN-WINDOW,20251001200437,,,,2026-10-12T06:31:23Z
+HD-01,Home Depot,https://www.homedepot.com/c/Terms_of_Use,OK,20221130131408,on-or-before,previous-tos/retail/home-depot/hd-01-the-home-depot-terms-of-service_20221130131408.txt,25029,2026-10-12T06:34:27Z
+JCR-01,J.Crew Group,https://www.jcrew.com/help/terms-of-use,OK,20221107200447,on-or-before,previous-tos/clothing/j-crew-group/jcr-01-j-crew-terms-of-use_20221107200447.txt,43367,2026-10-12T06:34:27Z
+LUV-01,Southwest Airlines,https://www.southwest.com/html/about-southwest/terms-and-conditions/index.html,OK,20221201151541,after,previous-tos/airlines/southwest-airlines/luv-01-southwest-com-terms-and-conditions_20221201151541.txt,36753,2026-10-12T06:34:27Z
+MAR-02,Marriott,https://homes-and-villas.marriott.com/en/terms-of-service,OK,20221201193220,after,previous-tos/hospitality/marriott/mar-02-homes-villas-by-marriott-bonvoy-terms-of-service-search-with-ai_20221201193220.txt,49364,2026-10-12T06:34:27Z
+TMUS-01,T-Mobile US,https://www.t-mobile.com/responsibility/legal/terms-and-conditions,OK,20221201092025,after,previous-tos/telecom/t-mobile-us/tmus-01-t-mobile-terms-conditions_20221201092025.txt,61535,2026-10-12T06:34:28Z
+USB-01,U.S. Bancorp,https://www.usbank.com/caas/digital-services-agreement.html,OK,20230103225554,after,previous-tos/banking/u-s-bancorp/usb-01-digital-services-agreement-smart-assistant-use-of-ai_20230103225554.txt,129285,2026-10-12T06:34:28Z
+UNH-02,UnitedHealth Group,https://messaging.myuhc.com/public/terms,NOT-ARCHIVED,,,,,2026-10-12T06:38:33Z
+W-01,Wayfair,https://www.wayfair.com/terms/,NO-SNAPSHOT-IN-WINDOW,20240714194006,,,,2026-10-12T06:40:29Z
+ULTA-01,Ulta Beauty,https://www.ulta.com/company/terms-and-conditions,OK,20221203213133,after,previous-tos/health-personal-care/ulta-beauty/ulta-01-ulta-terms-conditions_20221203213133.txt,33278,2026-10-12T06:41:23Z
+UNH-01,UnitedHealth Group,https://www.uhc.com/privacy/terms-of-use,OK,20221207090900,after,previous-tos/insurance/unitedhealth-group/unh-01-uhc-terms-of-use_20221207090900.txt,24472,2026-10-12T06:41:23Z
+VGD-01,Vanguard,https://investor.vanguard.com/terms-conditions,OK,20221129150332,on-or-before,previous-tos/investing/vanguard/vgd-01-vanguard-voicebot-terms-of-use_20221129150332.txt,146660,2026-10-12T06:41:23Z
+VGD-03,Vanguard,https://investor.vanguard.com/terms-conditions,OK,20221129150332,on-or-before,previous-tos/investing/vanguard/vgd-01-vanguard-voicebot-terms-of-use_20221129150332.txt,146660,2026-10-12T06:41:23Z
+VGD-04,Vanguard,https://investor.vanguard.com/terms-conditions,OK,20221129150332,on-or-before,previous-tos/investing/vanguard/vgd-01-vanguard-voicebot-terms-of-use_20221129150332.txt,146660,2026-10-12T06:41:23Z
+VZ-05,Verizon,https://www.verizon.com/support/my-verizon-terms/,OK,20230325151607,after,previous-tos/telecom/verizon/vz-05-my-verizon-terms-conditions_20230325151607.txt,9342,2026-10-12T06:41:23Z
+VZ-06,Verizon,https://www.verizon.com/support/my-verizon-mobile-app-legal/,OK,20230322000938,after,previous-tos/telecom/verizon/vz-06-my-verizon-app-end-user-license-agreement_20230322000938.txt,24749,2026-10-12T06:41:23Z
+WEG-01,Wegmans,https://www.wegmans.com/terms,OK,20221209225156,after,previous-tos/grocery/wegmans/weg-01-wegmans-terms-of-use_20221209225156.txt,66973,2026-10-12T06:41:24Z
+WRBY-01,Warby Parker,https://www.warbyparker.com/terms-of-use,OK,20221126092549,on-or-before,previous-tos/health-personal-care/warby-parker/wrby-01-warby-parker-terms-of-use_20221126092549.txt,49797,2026-10-12T06:41:24Z
+WSM-01,Williams-Sonoma,https://www.williams-sonoma.com/customer-service/legal-statement.html,OK,20221204003608,after,previous-tos/furniture/williams-sonoma/wsm-01-legal-statement_20221204003608.txt,82653,2026-10-12T06:41:24Z
+EBAY-01,eBay,https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259,CAPTURE-FAILED,20221130232449,,,,2026-10-12T06:44:33Z
+CMG-01,Chipotle,https://www.chipotle.com/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20231018141159,,,,2026-10-12T06:45:59Z
+MET-02,MetLife,https://mybenefits.metlife.com/Mbpp/legalNotices.html,NOT-ARCHIVED,,,,,2026-10-12T06:46:44Z
+VZ-07,Verizon,https://www.verizon.com/support/customer-agreement/,NO-SNAPSHOT-IN-WINDOW,20230713124029,,,,2026-10-12T06:47:14Z
+AAL-03,American,https://www.aa.com/web/i18n/customer-service/support/privacy-policy.html,NO-SNAPSHOT-IN-WINDOW,20260415100104,,,,2026-10-12T06:47:23Z
+DPZ-02,Domino's,https://www.dominos.com/content/privacy,NO-SNAPSHOT-IN-WINDOW,20250918064642,,,,2026-10-12T06:48:13Z
+HIM-03,Hims & Hers,https://www.hims.com/privacy-policy,NO-SNAPSHOT-IN-WINDOW,20230921213858,,,,2026-10-12T06:49:07Z
+KD-04,Kinney Drugs,https://www.kinneydrugs.com/contact-us/kd-npp/,NO-SNAPSHOT-IN-WINDOW,20260606013614,,,,2026-10-12T06:49:40Z
+CASY-01,Casey's,https://www.caseys.com/terms-and-conditions,OK,20221127083410,on-or-before,previous-tos/gas-stations/casey-s/casy-01-website-terms-and-conditions_20221127083410.txt,37123,2026-10-12T06:50:33Z
+CMX-02,Comcast,https://www.xfinity.com/privacy/policy,OK,20221130222042,on-or-before,previous-tos/telecom/comcast/cmx-02-comcast-xfinity-privacy-policy-adm_20221130222042.txt,38353,2026-10-12T06:50:33Z
+CNC-02,Centene,https://www.ambetterhealth.com/privacy-policy.html,OK,20221209054023,after,previous-tos/insurance/centene/cnc-02-ambetter-privacy-policy_20221209054023.txt,17775,2026-10-12T06:50:33Z
+CZR-01,Caesars Entertainment,https://www.caesars.com/corporate/terms-of-service,OK,20221207205748,after,previous-tos/hospitality/caesars-entertainment/czr-01-caesars-terms-of-service-non-gaming-sites-and-apps_20221207205748.txt,32709,2026-10-12T06:50:33Z
+ELV-02,Elevance Health,https://www.anthem.com/privacy,OK,20221128152029,on-or-before,previous-tos/insurance/elevance-health/elv-02-anthem-privacy-statement_20221128152029.txt,30581,2026-10-12T06:50:34Z
+HD-04,Home Depot,https://www.homedepot.com/privacy/privacy-and-security-statement,OK,20221130160219,on-or-before,previous-tos/retail/home-depot/hd-04-privacy-security-statement_20221130160219.txt,61258,2026-10-12T06:50:34Z
+HIL-04,Hilton,https://www.hilton.com/en/p/global-privacy-statement/,OK,20221201145409,after,previous-tos/hospitality/hilton/hil-04-hilton-global-privacy-statement_20221201145409.txt,81967,2026-10-12T06:50:34Z
+MAR-03,Marriott,https://www.marriott.com/about/privacy.mi,OK,20221203233317,after,previous-tos/hospitality/marriott/mar-03-marriott-group-global-privacy-statement_20221203233317.txt,56919,2026-10-12T06:50:34Z
+MET-01,MetLife,https://www.metlife.com/about-us/terms-and-conditions/,OK,20221206093302,after,previous-tos/insurance/metlife/met-01-metlife-legal-notices_20221206093302.txt,25254,2026-10-12T06:50:34Z
+MET-03,MetLife,https://www.metlife.com/about-us/privacy-policy/online-privacy-policy/,OK,20221201212552,after,previous-tos/insurance/metlife/met-03-metlife-privacy-statement_20221201212552.txt,21213,2026-10-12T06:50:34Z
+STF-01,State Farm,https://www.statefarm.com/customer-care/disclosures/terms-of-use,OK,20221203002839,after,previous-tos/insurance/state-farm/stf-01-state-farm-terms-of-use_20221203002839.txt,24139,2026-10-12T06:50:35Z
+T-02,AT&T,https://www.att.com/legal/terms.attWebsiteTermsOfUse.html,OK,20221201044641,after,previous-tos/telecom/at-t/t-02-at-t-website-terms-of-use_20221201044641.txt,39171,2026-10-12T06:50:35Z
+UAL-03,United,https://www.united.com/en/us/fly/privacy-policy.html,NO-SNAPSHOT-IN-WINDOW,20241110155358,,,,2026-10-12T06:51:52Z
+EBAY-02,eBay,https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260,CAPTURE-FAILED,20221130232449,,,,2026-10-12T06:54:49Z
+AAL-02,American,https://www.aa.com/web/i18n/customer-service/support/conditions-of-carriage.html,NO-SNAPSHOT-IN-WINDOW,20260415102141,,,,2026-10-12T06:54:58Z
+AAL-04,American,https://www.aa.com/web/i18n/aadvantage-program/aadvantage-terms-and-conditions.html,NO-SNAPSHOT-IN-WINDOW,20260815124454,,,,2026-10-12T06:55:13Z
+UAL-02,United,https://www.united.com/en/us/fly/contract-of-carriage.html,CAPTURE-FAILED,20221203193353,,,,2026-10-12T06:56:18Z
+C-02,Citigroup,https://www.citi.com/tandc/view-printable-version,NO-SNAPSHOT-IN-WINDOW,20250317201440,,,,2026-10-12T06:56:27Z
+DPZ-01,Domino's,https://www.dominos.com/content/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20250917163657,,,,2026-10-12T06:56:37Z
+PCG-02,PG&E,https://www.pge.com/en/privacy-center/disclosure.html,NO-SNAPSHOT-IN-WINDOW,20231127220008,,,,2026-10-12T06:57:37Z
+VZ-04,Verizon,https://www.verizon.com/about/terms-conditions/verizon-web-site-use-agreement,NO-SNAPSHOT-IN-WINDOW,20231207163544,,,,2026-10-12T06:57:50Z
+YUM-01,Yum! Brands,https://www.tacobell.com/legal/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20240719210533,,,,2026-10-12T06:58:03Z
+CMX-04,Comcast,https://www.xfinity.com/Corporate/Customers/Policies/SubscriberAgreement,OK,20221203005052,after,previous-tos/telecom/comcast/cmx-04-xfinity-residential-services-agreement_20221203005052.txt,62174,2026-10-12T06:58:03Z
+HIL-01,Hilton,https://www.hiltongrandvacations.com/en/legal,OK,20230112045553,after,previous-tos/hospitality/hilton/hil-01-hilton-ai-terms-ai-tools-only-public-host-is-hilton-grand-vacat_20230112045553.txt,43569,2026-10-12T06:58:03Z
+MCD-01,McDonald's,https://www.mcdonalds.com/us/en-us/terms-and-conditions.html,OK,20221129203041,on-or-before,previous-tos/restaurants/mcdonald-s/mcd-01-terms-conditions-online-services_20221129203041.txt,121755,2026-10-12T06:58:03Z
+STF-02,State Farm,https://www.statefarm.com/customer-care/privacy-security/privacy,OK,20221202031500,after,previous-tos/insurance/state-farm/stf-02-state-farm-notice-of-privacy-policy-replaces-privacy-hub-page_20221202031500.txt,20343,2026-10-12T06:58:03Z
+TGT-02,Target,https://www.target.com/c/target-privacy-policy/-/N-4sr7p,OK,20221201040526,after,previous-tos/retail/target/tgt-02-target-privacy-policy_20221201040526.txt,42084,2026-10-12T06:58:03Z
+ULTA-03,Ulta Beauty,https://www.ulta.com/company/privacy,OK,20221201004907,after,previous-tos/health-personal-care/ulta-beauty/ulta-03-privacy-policy-s-14-ai-notice_20221201004907.txt,43731,2026-10-12T06:58:03Z
+UNH-05,UnitedHealth Group,https://www.uhc.com/privacy,OK,20221130232834,on-or-before,previous-tos/insurance/unitedhealth-group/unh-05-privacy-hub-page_20221130232834.txt,21202,2026-10-12T06:58:03Z
+VZ-02,Verizon,https://www.verizon.com/about/privacy/full-privacy-policy,OK,20221130112126,on-or-before,previous-tos/telecom/verizon/vz-02-verizon-privacy-policy-automated-processing-profiling_20221130112126.txt,57991,2026-10-12T06:58:03Z
+WEG-02,Wegmans,https://www.wegmans.com/privacypolicy,OK,20220823191742,on-or-before,previous-tos/grocery/wegmans/weg-02-privacy-policy-chatbots-and-ai-features_20220823191742.txt,12199,2026-10-12T06:58:03Z
+WMT-02,Walmart,https://corporate.walmart.com/privacy-security/walmart-privacy-notice,OK,20230101082341,after,previous-tos/retail/walmart/wmt-02-walmart-privacy-notice_20230101082341.txt,37141,2026-10-12T06:58:03Z
+WRBY-02,Warby Parker,https://www.warbyparker.com/privacy-policy,OK,20221129193111,on-or-before,previous-tos/health-personal-care/warby-parker/wrby-02-warby-parker-privacy-policy_20221129193111.txt,33272,2026-10-12T06:58:03Z
+BN-01,Barnes & Noble,https://www.barnesandnoble.com/terms/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20251124011610,,,,2026-10-12T07:00:18Z
+BKG-01,Booking.com,https://www.booking.com/content/terms.html,NOT-ARCHIVED,,,,,2026-10-12T07:01:26Z
+CHG-01,Chegg,https://www.chegg.com/en-US/termsofuse/,CAPTURE-FAILED,20221201042857,,,,2026-10-12T07:03:33Z
+CHM-03,Chime,https://www.chime.com/policies/chime/user-agreement/,NOT-ARCHIVED,,,,,2026-10-12T07:03:44Z
+DKS-01,Dick's Sporting Goods,https://www.dickssportinggoods.com/s/policy/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20230929232103,,,,2026-10-12T07:04:19Z
+DD-01,DoorDash,https://help.doordash.com/en-us/legal/article/cx-terms-and-conditions,NO-SNAPSHOT-IN-WINDOW,20260512170731,,,,2026-10-12T07:04:29Z
+EA-01,Electronic Arts,https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/,ARCHIVED-HTTP-426,20221129091724,,,,2026-10-12T07:05:05Z
+EXP-01,Expedia,https://www.expedia.com/legal/ai-terms,NO-SNAPSHOT-IN-WINDOW,20251126133915,,,,2026-10-12T07:05:37Z
+GEN-01,Gen Digital,https://us.norton.com/legal/lsa?lsar=americas&lsal=en,NO-SNAPSHOT-IN-WINDOW,20251004234511,,,,2026-10-12T07:06:35Z
+INTU-01,Intuit,https://www.intuit.com/legal/terms/en-us/turbotax/online-license/,NO-SNAPSHOT-IN-WINDOW,20241208092359,,,,2026-10-12T07:07:08Z
+LZ-01,LegalZoom,https://www.legalzoom.com/legal/general-terms/ai-additional-terms,NO-SNAPSHOT-IN-WINDOW,20231208201757,,,,2026-10-12T07:08:34Z
+FWON-01,Liberty Media,https://www.formula1.com/en/information/legal-notices.7egvZU48hzrypubGBNcQKt,NO-SNAPSHOT-IN-WINDOW,20240705164516,,,,2026-10-12T07:09:36Z
+LYV-01,Live Nation Entertainment,https://legal.ticketmaster.com/terms-of-use/,NO-SNAPSHOT-IN-WINDOW,20250626143443,,,,2026-10-12T07:10:16Z
+MIK-01,Michaels,https://www.michaels.com/lp/privacy-policy-terms-and-conditions,NO-SNAPSHOT-IN-WINDOW,20260313010418,,,,2026-10-12T07:12:13Z
+ABB-01,Airbnb,https://www.airbnb.com/help/article/2908,OK,20221127164754,on-or-before,previous-tos/travel-ota/airbnb/abb-01-airbnb-terms-of-service-ai-generated-content-sec-9_20221127164754.txt,129439,2026-10-12T07:13:05Z
+AVB-01,AvalonBay Communities,https://www.avaloncommunities.com/terms-of-use,OK,20221205201611,after,previous-tos/apartment-reits/avalonbay-communities/avb-01-vivmark-terms-of-use-avalonbay-site-s-13-ai_20221205201611.txt,52743,2026-10-12T07:13:05Z
+BBY-01,Best Buy,https://www.bestbuy.com/site/help-topics/terms-and-conditions/pcmcat204400050067.c?id=pcmcat204400050067,OK,20221201185155,after,previous-tos/electronics/best-buy/bby-01-bestbuy-com-terms-and-conditions_20221201185155.txt,28933,2026-10-12T07:13:05Z
+CAR-01,Avis Budget Group,https://www.avis.com/en/legal-documents/terms-of-use,OK,20221130061145,on-or-before,previous-tos/car-rental/avis-budget-group/car-01-avis-terms-of-use_20221130061145.txt,61518,2026-10-12T07:13:05Z
+COUR-01,Coursera,https://www.coursera.org/about/terms,OK,20221129191525,on-or-before,previous-tos/online-training/coursera/cour-01-coursera-terms-of-use-s-10-ai-disclaimer_20221129191525.txt,49365,2026-10-12T07:13:05Z
+CVS-01,CVS Health,https://www.aetna.com/legal-notices/disclaimer.html,OK,20221205122718,after,previous-tos/insurance/cvs-health/cvs-01-aetna-digital-terms-of-use_20221205122718.txt,44657,2026-10-12T07:13:05Z
+CVS-02,CVS Health,https://www.aetnacvshealth.com/legal-notices/disclaimer.html,OK,20230130221028,after,previous-tos/insurance/cvs-health/cvs-02-aetna-cvs-health-medicaid-web-and-mobile-terms_20230130221028.txt,19017,2026-10-12T07:13:05Z
+CWH-01,Camping World,https://www.campingworld.com/helpcenter-ourpolicies/termsOfUse.html,OK,20221126221358,on-or-before,previous-tos/rv-boat-dealers/camping-world/cwh-01-camping-world-terms-of-use_20221126221358.txt,39521,2026-10-12T07:13:05Z
+EQR-01,Equity Residential,https://www.equityapartments.com/terms,OK,20221022032600,on-or-before,previous-tos/apartment-reits/equity-residential/eqr-01-vivmark-residential-terms-of-use-s-13-ai_20221022032600.txt,31895,2026-10-12T07:13:05Z
+FDX-01,FedEx,https://www.fedex.com/en-us/terms-of-use.html,OK,20221128055334,on-or-before,previous-tos/couriers/fedex/fdx-01-fedex-com-terms-of-use_20221128055334.txt,52975,2026-10-12T07:13:06Z
+FID-01,Fidelity Investments,https://www.fidelity.com/terms-of-use,OK,20221204215653,after,previous-tos/investing/fidelity-investments/fid-01-fidelity-websites-terms-of-use-virtual-assistant_20221204215653.txt,33867,2026-10-12T07:13:06Z
+FLWS-01,1-800-Flowers.com,https://www.1800flowers.com/About-Us-Terms-of-Use,OK,20221213224653,after,previous-tos/specialty-food/1-800-flowers-com/flws-01-1-800-flowers-com-terms-of-use_20221213224653.txt,50359,2026-10-12T07:13:06Z
+HRB-01,H&R Block,https://www.hrblock.com/universal/terms/,OK,20221127021515,on-or-before,previous-tos/tax-prep/h-r-block/hrb-01-terms-of-use-agreement-ai-and-automated-features_20221127021515.txt,38805,2026-10-12T07:13:06Z
+KOA-01,Kampgrounds of America,https://koa.com/privacy/terms-of-use/,OK,20221016222413,on-or-before,previous-tos/campgrounds/kampgrounds-of-america/koa-01-koa-website-terms-of-use_20221016222413.txt,21858,2026-10-12T07:13:06Z
+KS-01,Kendra Scott,https://www.kendrascott.com/terms-conditions.html,OK,20221108141906,on-or-before,previous-tos/jewelry/kendra-scott/ks-01-kendra-scott-terms-conditions_20221108141906.txt,59342,2026-10-12T07:13:06Z
+LH-01,Labcorp,https://www.labcorp.com/terms-and-conditions,OK,20221207202158,after,previous-tos/medical-labs/labcorp/lh-01-labcorp-online-services-user-agreement-s-6-ai_20221207202158.txt,38481,2026-10-12T07:13:06Z
+LTH-01,Life Time Group Holdings,https://www.lifetime.life/policy/terms-of-use.html,OK,20221128143921,on-or-before,previous-tos/amusement-recreation/life-time-group-holdings/lth-01-life-time-terms-of-use-ai-chatbot-paragraph_20221128143921.txt,24132,2026-10-12T07:13:07Z
+LYFT-01,Lyft,https://www.lyft.com/terms,OK,20221203044357,after,previous-tos/ride-hailing/lyft/lyft-01-lyft-terms-of-service_20221203044357.txt,103682,2026-10-12T07:13:07Z
+LZ-02,LegalZoom,https://www.legalzoom.com/legal/general-terms/terms-of-service,OK,20221201182507,after,previous-tos/legal-services/legalzoom/lz-02-terms-of-service_20221201182507.txt,45624,2026-10-12T07:13:07Z
+LZ-03,LegalZoom,https://www.legalzoom.com/legal/general-terms/terms-of-use,OK,20221201182341,after,previous-tos/legal-services/legalzoom/lz-03-terms-of-use_20221201182341.txt,46863,2026-10-12T07:13:07Z
+MET-P-01,Metropolis Technologies,https://www.metropolis.io/terms,OK,20221121121735,on-or-before,previous-tos/personal-services/metropolis-technologies/met-p-01-metropolis-terms-of-service_20221121121735.txt,45164,2026-10-12T07:13:07Z
+MTCH-01,Match Group,https://policies.tinder.com/terms/us/en,OK,20221205151442,after,previous-tos/streaming-social/match-group/mtch-01-tinder-terms-of-use_20221205151442.txt,58490,2026-10-12T07:13:07Z
+MTCH-02,Match Group,https://hinge.co/terms,OK,20221204041633,after,previous-tos/streaming-social/match-group/mtch-02-hinge-terms-of-service_20221204041633.txt,75982,2026-10-12T07:13:08Z
+NFLX-01,Netflix,https://help.netflix.com/legal/termsofuse,OK,20221203152108,after,previous-tos/streaming-social/netflix/nflx-01-netflix-terms-of-use_20221203152108.txt,25544,2026-10-12T07:13:08Z
+NRDY-01,Nerdy,https://www.varsitytutors.com/terms-of-use,OK,20221022173138,on-or-before,previous-tos/tutoring/nerdy/nrdy-01-varsity-tutors-terms-of-use_20221022173138.txt,65729,2026-10-12T07:13:08Z
+SCHW-01,Charles Schwab,https://www.schwab.com/legal/terms,OK,20221205165523,after,previous-tos/investing/charles-schwab/schw-01-schwab-website-terms_20221205165523.txt,39261,2026-10-12T07:13:08Z
+TWOU-01,2U (edX),https://www.edx.org/edx-terms-service,OK,20221203082237,after,previous-tos/educational-support/2u-edx/twou-01-edx-terms-of-service-and-honor-code_20221203082237.txt,28133,2026-10-12T07:13:09Z
+XYZ-01,Block (Cash App),https://cash.app/legal/us/en-us/tos,OK,20221126232832,on-or-before,previous-tos/payments-fintech/block-cash-app/xyz-01-cash-app-terms-of-service-incl-s-xxii-generative-ai-terms-of-us_20221126232832.txt,185245,2026-10-12T07:13:09Z
+NI-01,NiSource,https://www.columbiagasohio.com/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20190115155906,,,,2026-10-12T07:13:51Z
+NCLH-01,Norwegian Cruise Line Holdings,https://www.ncl.com/terms,NO-SNAPSHOT-IN-WINDOW,20250830211056,,,,2026-10-12T07:14:28Z
+JWN-01,Nordstrom,https://www.nordstrom.com/browse/customer-service/policy/terms-conditions,CAPTURE-FAILED,20221209152454,,,,2026-10-12T07:14:31Z
+PYPL-01,PayPal Holdings,https://www.paypal.com/us/legalhub/paypal/useragreement-full,NO-SNAPSHOT-IN-WINDOW,20241119114642,,,,2026-10-12T07:15:11Z
+RBLX-01,Roblox,https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use,ARCHIVED-HTTP-403,20221201001417,,,,2026-10-12T07:16:23Z
+RL-01,Rocket Lawyer,https://www.rocketlawyer.com/rocket-copilot-terms,NO-SNAPSHOT-IN-WINDOW,20240226081655,,,,2026-10-12T07:17:00Z
+ROKU-01,Roku,https://docs.roku.com/published/deviceplayereula/en/us,CAPTURE-FAILED,20230227005830,,,,2026-10-12T07:17:49Z
+ROKU-02,Roku,https://docs.roku.com/api/v1/published/usertermsandconditions/en/us/text,NOT-ARCHIVED,,,,,2026-10-12T07:17:59Z
+SYF-01,Synchrony Financial,https://www.synchrony.com/legal/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20240306034305,,,,2026-10-12T07:19:55Z
+CI-01,The Cigna Group,https://www.cigna.com/legal/compliance/terms-of-use,NO-SNAPSHOT-IN-WINDOW,20240402014803,,,,2026-10-12T07:20:07Z
+TDUP-01,ThredUp,https://www.thredup.com/legal/tou,CAPTURE-FAILED,20221113100532,,,,2026-10-12T07:20:45Z
+UPS-01,UPS,https://www.ups.com/us/en/support/shipping-support/legal-terms-conditions/website-terms-of-use,NO-SNAPSHOT-IN-WINDOW,20250328095033,,,,2026-10-12T07:22:10Z
+ZG-01,Zillow,https://www.zillow.com/corporate/terms-of-use/,NO-SNAPSHOT-IN-WINDOW,20260206202248,,,,2026-10-12T07:22:28Z
+EH-01,eHealth,https://www.ehealthinsurance.com/about-ehealth/terms-of-use,CAPTURE-FAILED,20230225011734,,,,2026-10-12T07:22:39Z
+M-01,Macy's,https://www.macys.com/customer-service/articles/legal-notice,NO-SNAPSHOT-IN-WINDOW,20250730044352,,,,2026-10-12T07:23:10Z
+UPBD-02,Upbound Group,https://www.rentacenter.com/terms-of-service,NO-SNAPSHOT-IN-WINDOW,20260411090502,,,,2026-10-12T07:24:07Z
+BKG-02,Booking.com,https://www.booking.com/content/privacy.html,NOT-ARCHIVED,,,,,2026-10-12T07:25:46Z
+ABB-02,Airbnb,https://www.airbnb.com/help/article/3175,OK,20221205221524,after,previous-tos/travel-ota/airbnb/abb-02-airbnb-privacy-policy-automated-decisions-profiling_20221205221524.txt,37637,2026-10-12T07:26:35Z
+AVB-02,AvalonBay Communities,https://www.avaloncommunities.com/privacy-policy,OK,20221106233900,on-or-before,previous-tos/apartment-reits/avalonbay-communities/avb-02-vivmark-privacy-notice-avalonbay-site_20221106233900.txt,27299,2026-10-12T07:26:35Z
+CAR-02,Avis Budget Group,https://www.avis.com/en/legal-documents/privacy-notice,OK,20221130074559,on-or-before,previous-tos/car-rental/avis-budget-group/car-02-avis-privacy-notice_20221130074559.txt,70615,2026-10-12T07:26:35Z
+CHG-02,Chegg,https://www.chegg.com/en-US/privacypolicy,OK,20221102005741,on-or-before,previous-tos/edtech/chegg/chg-02-chegg-global-privacy-policy-adm_20221102005741.txt,34010,2026-10-12T07:26:35Z
+CHM-02,Chime,https://www.chime.com/policies/chime/privacy-policy/,OK,20221113093232,on-or-before,previous-tos/banking/chime/chm-02-chime-privacy-policy-automated-decisions_20221113093232.txt,28879,2026-10-12T07:26:35Z
+FUN-01,Six Flags Entertainment,https://www.sixflags.com/terms-of-use,OK,20221204083607,after,previous-tos/amusement-parks/six-flags-entertainment/fun-01-six-flags-terms-of-use_20221204083607.txt,37983,2026-10-12T07:26:35Z
+GRY-01,Greystar,https://www.greystar.com/terms-of-use,OK,20221128201303,on-or-before,previous-tos/real-estate/greystar/gry-01-greystar-terms-of-use_20221128201303.txt,19282,2026-10-12T07:26:35Z
+MTN-01,Vail Resorts,https://www.epicpass.com/policies.aspx,OK,20221225041654,after,previous-tos/amusement-recreation/vail-resorts/mtn-01-epic-pass-policies-website-terms-terms-of-sale-privacy_20221225041654.txt,227564,2026-10-12T07:26:35Z
+NBR-01,Neighborly,https://www.neighborly.com/terms-of-use,OK,20221207205045,after,previous-tos/services-to-buildings/neighborly/nbr-01-neighborly-terms-of-use-also-on-mollymaid-com_20221207205045.txt,36053,2026-10-12T07:26:35Z
+NEGG-01,Newegg Commerce,https://kb.newegg.com/knowledge-base/policy-agreement/,OK,20221130185754,on-or-before,previous-tos/electronics/newegg-commerce/negg-01-newegg-policy-agreement_20221130185754.txt,58952,2026-10-12T07:26:35Z
+ODP-01,ODP Corp,https://www.officedepot.com/cm/help/terms-of-use,OK,20220530195437,on-or-before,previous-tos/office-supplies/odp-corp/odp-01-office-depot-terms-of-use_20220530195437.txt,43605,2026-10-12T07:26:35Z
+PINS-01,Pinterest,https://policy.pinterest.com/en/terms-of-service,OK,20221201024843,after,previous-tos/streaming-social/pinterest/pins-01-pinterest-terms-of-service_20221201024843.txt,19700,2026-10-12T07:26:35Z
+RCL-01,Royal Caribbean Group,https://www.royalcaribbean.com/terms-and-conditions/digital-terms-of-use-and-end-user-license-agreement,OK,20221126121233,on-or-before,previous-tos/cruise-lines/royal-caribbean-group/rcl-01-digital-terms-of-use-and-eula_20221126121233.txt,50431,2026-10-12T07:26:35Z
+RELY-01,Remitly Global,https://www.remitly.com/us/en/home/agreement,OK,20221128105928,on-or-before,previous-tos/payments-fintech/remitly-global/rely-01-remitly-user-agreement_20221128105928.txt,32366,2026-10-12T07:26:36Z
+RKT-01,Rocket Companies,https://www.rocketmortgage.com/legal/terms-of-use,OK,20221208224005,after,previous-tos/consumer-lending/rocket-companies/rkt-01-rocket-group-terms-of-use_20221208224005.txt,32311,2026-10-12T07:26:36Z
+RL-02,Rocket Lawyer,https://www.rocketlawyer.com/general-terms-of-service,OK,20221201102303,after,previous-tos/legal-services/rocket-lawyer/rl-02-general-terms-of-service_20221201102303.txt,52491,2026-10-12T07:26:36Z
+SIG-01,Signet Jewelers,https://www.signetjewelers.com/terms-of-use/default.aspx,OK,20221204043800,after,previous-tos/jewelry/signet-jewelers/sig-01-signet-group-terms-of-use_20221204043800.txt,30799,2026-10-12T07:26:36Z
+SNAP-01,Snap,https://www.snap.com/terms,OK,20221130072247,on-or-before,previous-tos/streaming-social/snap/snap-01-snap-terms-of-service-s-6-ai-features_20221130072247.txt,64955,2026-10-12T07:26:36Z
+TG-01,Topgolf,https://topgolf.com/us/company/terms-and-conditions/,OK,20221205013601,after,previous-tos/amusement-recreation/topgolf/tg-01-topgolf-terms-conditions_20221205013601.txt,24162,2026-10-12T07:26:36Z
+TRP-01,Tripadvisor,https://tripadvisor.mediaroom.com/us-terms-of-use,OK,20221201052633,after,previous-tos/travel-ota/tripadvisor/trp-01-tripadvisor-terms-accuracy-clause-reaching-ai_20221201052633.txt,64036,2026-10-12T07:26:36Z
+TSCO-01,Tractor Supply,https://www.tractorsupply.com/tsc/cms/policies-information/customer-solutions/terms-and-conditions-of-use,OK,20230427122047,after,previous-tos/lawn-garden/tractor-supply/tsco-01-tractor-supply-terms-conditions_20230427122047.txt,204938,2026-10-12T07:26:36Z
+TURO-01,Turo,https://turo.com/us/en/policies/terms,OK,20221128012240,on-or-before,previous-tos/car-rental/turo/turo-01-turo-terms-of-service_20221128012240.txt,92822,2026-10-12T07:26:36Z
+DD-03,DoorDash,https://help.doordash.com/en-us/legal/article/cx-privacy-policy,NO-SNAPSHOT-IN-WINDOW,20260512184313,,,,2026-10-12T07:26:49Z
+EXP-02,Expedia,https://www.expedia.com/legal/privacy,NO-SNAPSHOT-IN-WINDOW,20240319213443,,,,2026-10-12T07:27:24Z
+GRY-04,Greystar,https://www.greystar.com/privacy/us-state-law-privacy-notice,NO-SNAPSHOT-IN-WINDOW,20240807121648,,,,2026-10-12T07:28:04Z
+UPBD-01,Upbound Group,https://www.rentacenter.com/en-us/privacy-policy,NO-SNAPSHOT-IN-WINDOW,20250803094355,,,,2026-10-12T07:30:37Z
+ZG-02,Zillow,https://www.zillow.com/corporate/zg-privacy-notice/,NO-SNAPSHOT-IN-WINDOW,20260209020427,,,,2026-10-12T07:30:57Z
+EH-02,eHealth,https://www.ehealthinsurance.com/about-ehealth/privacy-policy,CAPTURE-FAILED,20230225011734,,,,2026-10-12T07:31:08Z
+CI-02,The Cigna Group,https://static.cigna.com/assets/cignaaccess/en-us/html/legalDisclaimer.html,NOT-ARCHIVED,,,,,2026-10-12T07:33:40Z
+COF-01,Capital One,https://www.capitalone.com/legal/terms-conditions/,OK,20221201065310,after,previous-tos/banking/capital-one/cof-01-capital-one-terms-conditions_20221201065310.txt,15190,2026-10-12T07:33:40Z
+CVS-04,CVS Health,https://www.cvshealth.com/terms-of-use.html,OK,20221209144206,after,previous-tos/insurance/cvs-health/cvs-04-cvs-health-terms-of-use_20221209144206.txt,47551,2026-10-12T07:33:40Z
+CVS-05,CVS Health,https://www.cvs.com/help/terms_of_use.jsp,OK,20221126101134,on-or-before,previous-tos/insurance/cvs-health/cvs-05-cvs-com-terms-of-use_20221126101134.txt,50706,2026-10-12T07:33:40Z
+DGX-01,Quest Diagnostics,https://www.questdiagnostics.com/home/privacy-policy/terms-conditions,OK,20220903222600,on-or-before,previous-tos/medical-labs/quest-diagnostics/dgx-01-quest-terms-and-conditions_20220903222600.txt,62588,2026-10-12T07:33:40Z
+EQR-02,Equity Residential,https://www.equityapartments.com/privacy,OK,20221208151941,after,previous-tos/apartment-reits/equity-residential/eqr-02-vivmark-privacy-notice-s-6_20221208151941.txt,34294,2026-10-12T07:33:40Z
+GRY-02,Greystar,https://www.greystar.com/terms-of-use/resident-app-terms,OK,20230320214638,after,previous-tos/real-estate/greystar/gry-02-greystar-resident-app-terms-of-use_20230320214638.txt,21791,2026-10-12T07:33:40Z
+GRY-03,Greystar,https://www.greystar.com/privacy/global-privacy-policy,OK,20221204051156,after,previous-tos/real-estate/greystar/gry-03-greystar-global-privacy-statement-ai-tools-section_20221204051156.txt,31349,2026-10-12T07:33:40Z
+INS-02,Instacart,https://www.instacart.com/privacy,OK,20221129223744,on-or-before,previous-tos/food-delivery/instacart/ins-02-instacart-privacy-policy_20221129223744.txt,30821,2026-10-12T07:33:40Z
+KS-02,Kendra Scott,https://www.kendrascott.com/privacy.html,OK,20221006125159,on-or-before,previous-tos/jewelry/kendra-scott/ks-02-kendra-scott-privacy-policy_20221006125159.txt,25853,2026-10-12T07:33:41Z
+MET-P-02,Metropolis Technologies,https://www.metropolis.io/privacy,OK,20221121154939,on-or-before,previous-tos/personal-services/metropolis-technologies/met-p-02-metropolis-privacy-policy-alpr-mrp-notices_20221121154939.txt,27873,2026-10-12T07:33:41Z
+TG-02,Topgolf,https://topgolf.com/us/company/privacy-policy/,OK,20221130042206,on-or-before,previous-tos/amusement-recreation/topgolf/tg-02-topgolf-privacy-policy_20221130042206.txt,38311,2026-10-12T07:33:41Z
+TRP-03,Tripadvisor,https://tripadvisor.mediaroom.com/US-privacy-policy,OK,20221201040652,after,previous-tos/travel-ota/tripadvisor/trp-03-tripadvisor-privacy-and-cookies-statement-adm_20221201040652.txt,46536,2026-10-12T07:33:41Z
+UBR-03,Uber Eats,https://www.uber.com/legal/en/document/?name=privacy-notice&country=united-states&lang=en,OK,20221130233527,on-or-before,previous-tos/food-delivery/uber-eats/ubr-03-uber-privacy-notice_20221130233527.txt,52323,2026-10-12T07:33:41Z
+LUV-02,Southwest Airlines,https://www.southwest.com/assets/pdfs/corporate-commitments/contract-of-carriage.pdf,OK,20221201151528,after,previous-tos/airlines/southwest-airlines/luv-02-contract-of-carriage_20221201151528.txt,148689,2026-10-12T08:14:05Z
+ROKU-01,Roku,https://docs.roku.com/published/deviceplayereula/en/us,OK,20230227005830,after,previous-tos/streaming-social/roku/roku-01-roku-products-terms-of-use_20230227005830.txt,9323,2026-10-12T08:14:05Z
+TDUP-01,ThredUp,https://www.thredup.com/legal/tou,OK,20221113100532,on-or-before,previous-tos/used-merchandise/thredup/tdup-01-thredup-terms-of-use-ai-features_20221113100532.txt,62959,2026-10-12T08:14:05Z
+TFC-01,Truist Financial,https://www.truist.com/content/dam/truist-bank/us/en/documents/agreement/online-and-mobile-banking-service-agreement.pdf,OK,20221220233524,after,previous-tos/banking/truist-financial/tfc-01-online-and-mobile-banking-service-agreement_20221220233524.txt,208356,2026-10-12T08:14:05Z
+WFC-03,Wells Fargo,https://www.wellsfargo.com/assets/pdf/personal/privacy-security/us_consumer_privacy_notice_english.pdf,OK,20230130164619,after,previous-tos/banking/wells-fargo/wfc-03-wells-fargo-u-s-consumer-privacy-notice_20230130164619.txt,8352,2026-10-12T08:14:05Z
+EXC-01,Exelon,https://www.exeloncorp.com/content/dam/exelon/company/Documents/Exelon%20Utilities%20Chat%20Bot%20Terms%20and%20Conditions.pdf,NO-SNAPSHOT-IN-WINDOW,20231002054845,,,,2026-10-12T08:17:06Z
+ALK-03,Alaska (+ Hawaiian),https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/blte6a05a324023fe73/6a862a6e27c5cd6fdf5f7ee1/Privacy_Policy_-_English.pdf,NOT-ARCHIVED,,,,,2026-10-12T08:17:06Z
+LOW-02,Lowe's,https://www.lowes.com/pdf/Lowes_Customer_Privacy_Statement_Final.pdf,NO-SNAPSHOT-IN-WINDOW,20240704024844,,,,2026-10-12T08:17:07Z
+ALK-02,Alaska (+ Hawaiian),https://resource.alaskaair.net/v3/assets/blt2cefe12c88e9dd91/blta6d545d0295aad57/CoC%20English,NO-SNAPSHOT-IN-WINDOW,20260613114508,,,,2026-10-12T08:17:07Z
+DAL-05,Delta,https://www.delta.com/content/dam/delta-www/pdfs/dl-dgr-master-18aug26.pdf,NO-SNAPSHOT-IN-WINDOW,20260901102617,,,,2026-10-12T08:17:07Z
+FRO-03,Frontier,https://f9prodcdn.azureedge.net/media/11004/coc_r1_english.pdf,NO-SNAPSHOT-IN-WINDOW,20260618115250,,,,2026-10-12T08:17:08Z
+ALLY-01,Ally Financial,https://www.ally.com/content/dam/pdf/bank/ally-bank-obsa.pdf.coredownload.inline.pdf,NO-SNAPSHOT-IN-WINDOW,20240205011206,,,,2026-10-12T08:17:08Z
+ALLY-02,Ally Financial,https://www.ally.com/content/dam/pdf/bank/ally-bank-deposit-agreement.pdf.coredownload.inline.pdf,NO-SNAPSHOT-IN-WINDOW,20240120093651,,,,2026-10-12T08:17:09Z
+HRB-03,H&R Block,https://www.hrblock.com/pdf/HRBlock-Online-Services-Agreement.pdf,NO-SNAPSHOT-IN-WINDOW,20230803084852,,,,2026-10-12T08:17:09Z
+SYF-02,Synchrony Financial,https://images.synchronycredit.com/assets/generic/en/website_usage_agreement.pdf,NOT-ARCHIVED,,,,,2026-10-12T08:17:10Z
+COF-03,Capital One,https://ecm.capitalone.com/WCM/privacy/online-privacy-policy-may-2026.pdf,NO-SNAPSHOT-IN-WINDOW,20260508234843,,,,2026-10-12T08:17:10Z
+EBAY-01,eBay,https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259,ARCHIVED-UNUSABLE-CAPTCHA,20221130232449,,,,2026-10-12T08:17:11Z
+EBAY-02,eBay,https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260,ARCHIVED-UNUSABLE-CAPTCHA,20221130232449,,,,2026-10-12T08:17:11Z
+UAL-02,United,https://www.united.com/en/us/fly/contract-of-carriage.html,ARCHIVED-UNUSABLE-JS-SHELL,20221203193353,,,,2026-10-12T08:17:11Z
+CHG-01,Chegg,https://www.chegg.com/en-US/termsofuse/,ARCHIVED-UNUSABLE-BOT-WALL-403,20221201042857,,,,2026-10-12T08:17:12Z
+JWN-01,Nordstrom,https://www.nordstrom.com/browse/customer-service/policy/terms-conditions,ARCHIVED-UNUSABLE-JS-SHELL,20221209152454,,,,2026-10-12T08:17:12Z
+EH-01,eHealth,https://www.ehealthinsurance.com/about-ehealth/terms-of-use,ARCHIVED-UNUSABLE-ACCESS-DENIED-403,20230225011734,,,,2026-10-12T08:17:13Z
+EH-02,eHealth,https://www.ehealthinsurance.com/about-ehealth/privacy-policy,ARCHIVED-UNUSABLE-ACCESS-DENIED-403,20230225011734,,,,2026-10-12T08:17:13Z
+PUB-01,Publix,https://www.publix.com/terms-of-use,CAPTURE-FAILED,20230316025502,,,,2026-10-12T08:17:13Z
