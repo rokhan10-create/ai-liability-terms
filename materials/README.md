@@ -23,7 +23,7 @@ The full captured text of the company documents is not included, because those d
 
 - **Snapshot.** Terms change. Every code describes the document as captured on the date recorded for it.
 - **Main sample: 67 firms passed the screen, 59 were coded.** `screening/sample.csv` lists the 67 top-ten firms that passed. Eight of them, all ranked 6–10 (JetBlue, Breeze, Optimum, Mediacom, Fifth Third, Nationwide, Allstate, Prudential), entered the roster when the main-sample depth was raised from five to ten firms per industry. They could not be collected before the analysis freeze, so they are excluded from all counts in the paper. `screening/sample-crosswalk.csv` maps every screened-in firm (main and supplementary) to its name in the dataset and marks these eight as not collected.
-- **Reliability.** The LLM second-coder files come from the pilot corpus. A human validation on the final dataset is in progress; preliminary results (31 of 53 documents) are in `reliability/human-validation-preliminary.md`, with the human codes in `reliability/human-coder-codings.csv`.
+- **Reliability.** The reliability files come from the pilot corpus. A human validation on the final dataset is in progress.
 
 ## Licence
 
