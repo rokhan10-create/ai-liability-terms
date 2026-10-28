@@ -1,0 +1,23 @@
+date,naics4,firm,old_rank,new_rank,reason
+2026-10-05,5222,OneMain Holdings,5,6,Rocket Companies (FY2025 6.24B) added to roster ahead of OneMain
+2026-10-05,4451,"Ingles, Weis, Raley's, Stater Bros., Save Mart, Grocery Outlet",10-15,10:Ingles Markets,grouped row split into individual firms
+2026-10-05,7225,Texas Roadhouse; Brinker (Chili's),7-8,7:Texas Roadhouse; 8:Brinker International (Chili's),grouped row split into individual firms
+2026-10-05,7225,Bloomin' Brands; Cheesecake Factory,10-11,10:Bloomin' Brands (Outback); 11:The Cheesecake Factory,grouped row split into individual firms
+2026-10-05,4452,Rocky Mountain Chocolate Factory,5,6,1-800-Flowers.com (largest segment Gourmet Foods & Gift Baskets) inserted at rank 1
+2026-10-05,4452,IT'SUGAR (private),4,5,1-800-Flowers.com (largest segment Gourmet Foods & Gift Baskets) inserted at rank 1
+2026-10-05,4452,Nothing Bundt Cakes (private franchisor),3,4,1-800-Flowers.com (largest segment Gourmet Foods & Gift Baskets) inserted at rank 1
+2026-10-05,4452,Omaha Steaks (private),2,3,1-800-Flowers.com (largest segment Gourmet Foods & Gift Baskets) inserted at rank 1
+2026-10-05,4452,Edible Arrangements (private franchisor),1,2,1-800-Flowers.com (largest segment Gourmet Foods & Gift Baskets) inserted at rank 1
+2026-10-05,4552,BJ's Wholesale Club,7,6,revenue order: BJ's 22.81B > Meijer 22B est.
+2026-10-05,4552,Meijer (private),6,7,revenue order: BJ's 22.81B > Meijer 22B est.
+2026-10-05,4581,Victoria's Secret & Co.,6,5,revenue order: VS ~6.3B > URBN ~5.6B
+2026-10-05,4581,Urban Outfitters (URBN),5,6,revenue order: VS ~6.3B > URBN ~5.6B
+2026-10-06,5222,Credit Acceptance,9,10,dedupe rank 6: OneMain (~5.9B est.) > SoFi 4.30B
+2026-10-06,5222,Bread Financial,8,9,dedupe rank 6: OneMain (~5.9B est.) > SoFi 4.30B
+2026-10-06,5222,Affirm Holdings,7,8,dedupe rank 6: OneMain (~5.9B est.) > SoFi 4.30B
+2026-10-06,5222,SoFi Technologies,6,7,dedupe rank 6: OneMain (~5.9B est.) > SoFi 4.30B
+2026-10-06,7211,Wyndham Hotels & Resorts,12,13,dedupe rank 8: PENN ~6.8B > Host 6.21B
+2026-10-06,7211,Choice Hotels,11,12,dedupe rank 8: PENN ~6.8B > Host 6.21B
+2026-10-06,7211,Marriott Vacations Worldwide,10,11,dedupe rank 8: PENN ~6.8B > Host 6.21B
+2026-10-06,7211,Hilton Grand Vacations,9,10,dedupe rank 8: PENN ~6.8B > Host 6.21B
+2026-10-06,7211,Host Hotels & Resorts,8,9,dedupe rank 8: PENN ~6.8B > Host 6.21B

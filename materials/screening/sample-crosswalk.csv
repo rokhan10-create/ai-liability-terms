@@ -1,0 +1,142 @@
+sample,candidate_id,naics4,industry_rank,screening_log_name,dataset_name,status
+main,IND-17,4811,1,Delta Air Lines,Delta,collected and coded
+main,IND-17,4811,2,United Airlines Holdings,United,collected and coded
+main,IND-17,4811,3,American Airlines Group,American,collected and coded
+main,IND-17,4811,4,Southwest Airlines,Southwest Airlines,collected and coded
+main,IND-17,4811,5,Alaska Air Group,Alaska (+ Hawaiian),collected and coded
+main,IND-17,4811,6,JetBlue Airways,,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-17,4811,7,Frontier Group (Frontier Airlines),Frontier,collected and coded
+main,IND-17,4811,9,Breeze Airways (private),,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-25,5171,1,Verizon,Verizon,collected and coded
+main,IND-25,5171,2,AT&T,AT&T,collected and coded
+main,IND-25,5171,3,Comcast,Comcast,collected and coded
+main,IND-25,5171,4,T-Mobile US,T-Mobile US,collected and coded
+main,IND-25,5171,7,Cox Communications,Cox Communications,collected and coded
+main,IND-25,5171,8,Optimum Communications (Altice USA),,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-25,5171,10,Mediacom Communications (private),,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-27,5221,2,Bank of America,Bank of America,collected and coded
+main,IND-27,5221,3,Citigroup,Citigroup,collected and coded
+main,IND-27,5221,4,Wells Fargo,Wells Fargo,collected and coded
+main,IND-27,5221,5,U.S. Bancorp,U.S. Bancorp,collected and coded
+main,IND-27,5221,7,Truist Financial,Truist Financial,collected and coded
+main,IND-27,5221,10,Fifth Third Bancorp,,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-32,5241,1,UnitedHealth Group (UnitedHealthcare),UnitedHealth Group,collected and coded
+main,IND-32,5241,2,Centene (Ambetter),Centene,collected and coded
+main,IND-32,5241,3,Elevance Health,Elevance Health,collected and coded
+main,IND-32,5241,5,State Farm (mutual; private),State Farm,collected and coded
+main,IND-32,5241,7,MetLife,MetLife,collected and coded
+main,IND-32,5241,8,Nationwide Mutual (private mutual),,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-32,5241,9,Allstate,,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-32,5241,10,Prudential Financial,,passed screen; not collected before analysis freeze (excluded from all counts)
+main,IND-11,4552,2,Walmart,Walmart,collected and coded
+main,IND-11,4552,4,Target,Target,collected and coded
+main,IND-11,4552,6,BJ's Wholesale Club,BJ's Wholesale Club,collected and coded
+main,IND-11,4552,9,eBay,eBay,collected and coded
+main,IND-06,4441,1,The Home Depot,Home Depot,collected and coded
+main,IND-06,4441,2,Lowe's,Lowe's,collected and coded
+main,IND-07,4451,2,Albertsons Companies,Albertsons Companies,collected and coded
+main,IND-07,4451,3,Publix Super Markets,Publix,collected and coded
+main,IND-07,4451,5,Wegmans (private),Wegmans,collected and coded
+main,IND-07,4451,7,Giant Eagle (private),Giant Eagle,collected and coded
+main,IND-55,7211,1,Marriott International,Marriott,collected and coded
+main,IND-55,7211,4,Hilton Worldwide,Hilton,collected and coded
+main,IND-55,7211,5,Caesars Entertainment,Caesars Entertainment,collected and coded
+main,IND-55,7211,7,Hyatt Hotels,Hyatt Hotels,collected and coded
+main,IND-56,7225,2,McDonald's,McDonald's,collected and coded
+main,IND-56,7225,5,Chipotle Mexican Grill,Chipotle,collected and coded
+main,IND-56,7225,6,"Yum! Brands (Taco Bell, KFC, Pizza Hut)",Yum! Brands,collected and coded
+main,IND-56,7225,9,Domino's Pizza,Domino's,collected and coded
+main,IND-31,5239,3,"Vanguard (client-owned, private)",Vanguard,collected and coded
+main,IND-12,4561,2,Ulta Beauty,Ulta Beauty,collected and coded
+main,IND-12,4561,3,Bath & Body Works,Bath & Body Works,collected and coded
+main,IND-12,4561,8,Kinney Drugs (employee-owned),Kinney Drugs,collected and coded
+main,IND-12,4561,9,Warby Parker,Warby Parker,collected and coded
+main,IND-14,4581,3,Gap Inc.,Gap Inc.,collected and coded
+main,IND-14,4581,7,American Eagle Outfitters,American Eagle Outfitters,collected and coded
+main,IND-14,4581,8,Abercrombie & Fitch,Abercrombie & Fitch,collected and coded
+main,IND-14,4581,9,J.Crew Group (private),J.Crew Group,collected and coded
+main,IND-04,4411,4,CarMax,CarMax,collected and coded
+main,IND-04,4411,5,Carvana,Carvana,collected and coded
+main,IND-08,4491,1,Wayfair,Wayfair,collected and coded
+main,IND-08,4491,2,Williams-Sonoma,Williams-Sonoma,collected and coded
+main,IND-08,4491,6,Bob's Discount Furniture (private),Bob's Discount Furniture,collected and coded
+main,IND-13,4571,5,Casey's General Stores,Casey's,collected and coded
+main,IND-46,6211,4,Hims & Hers Health,Hims & Hers,collected and coded
+main,IND-01,2211,1,Duke Energy,Duke Energy,collected and coded
+main,IND-01,2211,6,PG&E Corporation,PG&E,collected and coded
+main,IND-01,2211,7,"Exelon (ComEd, PECO, BGE, Pepco)",Exelon,collected and coded
+main,IND-01,2211,9,Edison International (SCE),Edison International,collected and coded
+supplementary,IND-28,5222,2,Capital One Financial,Capital One,collected and coded
+supplementary,IND-28,5222,3,Synchrony Financial,Synchrony Financial,collected and coded
+supplementary,IND-28,5222,4,Ally Financial,Ally Financial,collected and coded
+supplementary,IND-28,5222,5,Rocket Companies,Rocket Companies,collected and coded
+supplementary,IND-42,5615,1,Booking Holdings,Booking.com,collected and coded
+supplementary,IND-42,5615,2,Expedia Group,Expedia,collected and coded
+supplementary,IND-42,5615,3,Airbnb,Airbnb,collected and coded
+supplementary,IND-42,5615,4,Tripadvisor,Tripadvisor,collected and coded
+supplementary,IND-20,4853,1,Uber Technologies,Uber Eats,collected and coded
+supplementary,IND-20,4853,2,Lyft,Lyft,collected and coded
+supplementary,IND-22,4922,1,DoorDash,DoorDash,collected and coded
+supplementary,IND-22,4922,2,Maplebear (Instacart),Instacart,collected and coded
+supplementary,IND-30,5231,2,Fidelity Investments (private),Fidelity Investments,collected and coded
+supplementary,IND-30,5231,3,Charles Schwab,Charles Schwab,collected and coded
+supplementary,IND-33,5242,1,CVS Health,CVS Health,collected and coded
+supplementary,IND-33,5242,2,The Cigna Group,The Cigna Group,collected and coded
+supplementary,IND-33,5242,5,eHealth,eHealth,collected and coded
+supplementary,IND-09,4492,1,Best Buy,Best Buy,collected and coded
+supplementary,IND-09,4492,5,Newegg Commerce,Newegg Commerce,collected and coded
+supplementary,IND-15,4591,1,Dick's Sporting Goods,Dick's Sporting Goods,collected and coded
+supplementary,IND-15,4591,4,Michaels (private),Michaels,collected and coded
+supplementary,IND-10,4551,1,Macy's,Macy's,collected and coded
+supplementary,IND-10,4551,3,Nordstrom (private since 2025),Nordstrom,collected and coded
+supplementary,IND-61,4442,1,Tractor Supply,Tractor Supply,collected and coded
+supplementary,IND-29,5223,1,PayPal Holdings,PayPal Holdings,collected and coded
+supplementary,IND-29,5223,2,Block (Cash App),Block (Cash App),collected and coded
+supplementary,IND-29,5223,4,Chime Financial,Chime,collected and coded
+supplementary,IND-29,5223,5,Remitly Global,Remitly Global,collected and coded
+supplementary,IND-37,5321,2,Avis Budget Group,Avis Budget Group,collected and coded
+supplementary,IND-37,5321,5,Turo (private),Turo,collected and coded
+supplementary,IND-34,5311,1,Equity Residential,Equity Residential,collected and coded
+supplementary,IND-34,5311,2,AvalonBay Communities,AvalonBay Communities,collected and coded
+supplementary,IND-35,5312,4,Zillow Group,Zillow,collected and coded
+supplementary,IND-23,5132,1,"Intuit (TurboTax, Credit Karma)",Intuit,collected and coded
+supplementary,IND-23,5132,2,Electronic Arts,Electronic Arts,collected and coded
+supplementary,IND-23,5132,4,Roblox,Roblox,collected and coded
+supplementary,IND-23,5132,5,"Gen Digital (Norton, Avast, LifeLock)",Gen Digital,collected and coded
+supplementary,IND-60,4412,1,Camping World Holdings,Camping World,collected and coded
+supplementary,IND-39,5411,2,LegalZoom,LegalZoom,collected and coded
+supplementary,IND-39,5411,4,Rocket Lawyer (private),Rocket Lawyer,collected and coded
+supplementary,IND-80,5617,3,"Neighborly (Molly Maid, Mr. Rooter, etc.; private)",Neighborly,collected and coded
+supplementary,IND-02,2212,1,"NiSource (Columbia Gas, NIPSCO)",NiSource,collected and coded
+supplementary,IND-54,7139,1,Vail Resorts,Vail Resorts,collected and coded
+supplementary,IND-54,7139,2,Life Time Group Holdings,Life Time Group Holdings,collected and coded
+supplementary,IND-54,7139,4,Topgolf (private after 2025-26 separation from Callaway),Topgolf,collected and coded
+supplementary,IND-49,6215,1,Labcorp,Labcorp,collected and coded
+supplementary,IND-49,6215,2,Quest Diagnostics,Quest Diagnostics,collected and coded
+supplementary,IND-66,4583,1,"Signet Jewelers (Kay, Zales, Jared, Blue Nile)",Signet Jewelers,collected and coded
+supplementary,IND-66,4583,2,Kendra Scott (private),Kendra Scott,collected and coded
+supplementary,IND-24,5162,1,Netflix,Netflix,collected and coded
+supplementary,IND-24,5162,2,Snap,Snap,collected and coded
+supplementary,IND-24,5162,3,Roku,Roku,collected and coded
+supplementary,IND-24,5162,4,Pinterest,Pinterest,collected and coded
+supplementary,IND-24,5162,5,"Match Group (Tinder, Hinge)",Match Group,collected and coded
+supplementary,IND-62,4452,1,1-800-Flowers.com,1-800-Flowers.com,collected and coded
+supplementary,IND-40,5412,1,H&R Block,H&R Block,collected and coded
+supplementary,IND-59,8129,1,Metropolis Technologies (incl. SP+; private),Metropolis Technologies,collected and coded
+supplementary,IND-69,4594,1,ODP Corp (Office Depot/OfficeMax; acquired by Atlas Holdings 2025),ODP Corp,collected and coded
+supplementary,IND-96,7112,2,Liberty Media (Formula One Group),Liberty Media,collected and coded
+supplementary,IND-52,7131,1,Six Flags Entertainment Corp (merged w/ Cedar Fair 2024),Six Flags Entertainment,collected and coded
+supplementary,IND-70,4595,5,ThredUp,ThredUp,collected and coded
+supplementary,IND-44,6116,4,Nerdy (Varsity Tutors),Nerdy,collected and coded
+supplementary,IND-72,4831,2,Royal Caribbean Group,Royal Caribbean Group,collected and coded
+supplementary,IND-72,4831,3,Norwegian Cruise Line Holdings,Norwegian Cruise Line Holdings,collected and coded
+supplementary,IND-83,6114,1,"Coursera (incl. Udemy, merged 2026-05-11)",Coursera,collected and coded
+supplementary,IND-45,6117,1,2U (edX; private after 2024 Ch.11),2U (edX),collected and coded
+supplementary,IND-45,6117,2,Chegg,Chegg,collected and coded
+supplementary,IND-38,5322,1,"Upbound Group (Rent-A-Center, Acima)",Upbound Group,collected and coded
+supplementary,IND-97,7113,1,Live Nation Entertainment (Ticketmaster),Live Nation Entertainment,collected and coded
+supplementary,IND-21,4921,1,UPS,UPS,collected and coded
+supplementary,IND-21,4921,2,FedEx,FedEx,collected and coded
+supplementary,IND-36,5313,1,Greystar (private),Greystar,collected and coded
+supplementary,IND-67,4592,1,Barnes & Noble (private),Barnes & Noble,collected and coded
+supplementary,IND-99,7212,1,Kampgrounds of America (KOA; private franchisor),Kampgrounds of America,collected and coded

@@ -1,0 +1,93 @@
+rank,naics4,title,revenue_2022_usd_thousands,household_share,household_revenue_usd_thousands,cum_share,within_90pct,share_source,caveat,screen_result_at_ranking
+1,5241,Insurance Carriers,2774399187,0.5912,1640226551,0.1269,yes,BEA 2017 use table (PCE / commodity output): 524113+5241XX,,4/5
+2,4552,"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",1228266183,0.977,1200016061,0.2198,yes,Census 2022 class of customer,,2/5 (+1 unclear)
+3,4411,Automobile Dealers,1345924794,0.848,1141344225,0.3081,yes,Census 2022 class of customer,,2/5
+4,4451,Grocery and Convenience Retailers,855861066,0.989,846446594,0.3736,yes,Census 2022 class of customer,,3/5
+5,7225,Restaurants and Other Eating Places,800120264,0.916,732910162,0.4304,yes,Census 2022 class of customer,,1/5 (+1 unclear)
+6,4571,Gasoline Stations,721659344,0.916,661039959,0.4815,yes,Census 2022 class of customer,,
+7,6211,Offices of Physicians,640432147,0.9984,639413115,0.531,yes,BEA 2017 use table (PCE / commodity output): 621100,,
+8,4561,Health and Personal Care Retailers,654625300,0.961,629094913,0.5797,yes,Census 2022 class of customer,,2/5
+9,5171,Wired and Wireless Telecommunications (except Satellite),640810026,0.686,439595678,0.6137,yes,Census 2022 class of customer,,4/5
+10,4581,Clothing and Clothing Accessories Retailers,284788056,0.973,277098778,0.6351,yes,Census 2022 class of customer,,0/5 (+1 unclear)
+11,5221,Depository Credit Intermediation,723279296,0.373,269815523,0.656,yes,BEA 2017 use table (PCE / commodity output): 52A000,,4/5
+12,4441,Building Material and Supplies Dealers,481863310,0.529,254905691,0.6758,yes,Census 2022 class of customer,,2/5
+13,2211,"Electric Power Generation, Transmission and Distribution",563323475,0.38,214062920,0.6923,yes,Census 2022 class of customer,,
+14,7211,Traveler Accommodation,285767869,0.728,208039009,0.7084,yes,Census 2022 class of customer,,2/5 (+2 unclear)
+15,5239,Other Financial Investment Activities,451605635,0.457,206395948,0.7244,yes,BEA 2017 use table (PCE / commodity output): 523900,,1/5 (+2 unclear)
+16,4491,Furniture and Home Furnishings Retailers,191730447,0.864,165655106,0.7372,yes,Census 2022 class of customer,,2/5
+17,6212,Offices of Dentists,160316394,0.9993,160211086,0.7496,yes,BEA 2017 use table (PCE / commodity output): 621200,,
+18,4599,Other Miscellaneous Retailers,153981171,0.893,137505186,0.7602,yes,Census 2022 class of customer,,0/4
+19,4811,Scheduled Air Transportation,238990432,0.5657,135195212,0.7707,yes,BEA 2017 use table (PCE / commodity output): 481000,,5/5
+20,6214,Outpatient Care Centers,129854137,0.9686,125775019,0.7804,yes,BEA 2017 use table (PCE / commodity output): 621400,,
+21,4492,Electronics and Appliance Retailers,175277062,0.704,123395052,0.79,yes,Census 2022 class of customer,,2/5
+22,6213,Offices of Other Health Practitioners,125773479,0.96,120746080,0.7993,yes,BEA 2017 use table (PCE / commodity output): 621300,,
+23,6231,Nursing Care Facilities (Skilled Nursing Facilities),113215474,0.9867,111713478,0.808,yes,BEA 2017 use table (PCE / commodity output): 623A00,,
+24,4591,"Sporting Goods, Hobby, and Musical Instrument Retailers",122177579,0.906,110692887,0.8166,yes,Census 2022 class of customer,,2/5
+25,8111,Automotive Repair and Maintenance,158026955,0.69,109038599,0.825,yes,Census 2022 class of customer,,
+26,5132,Software Publishers,492929994,0.2068,101946573,0.8329,yes,BEA 2017 use table (PCE / commodity output): 511200,,
+27,4412,Other Motor Vehicle Dealers,110704281,0.882,97641176,0.8404,yes,Census 2022 class of customer,,
+28,5411,Legal Services,369204095,0.262,96731473,0.8479,yes,Census 2022 class of customer,,
+29,5231,Securities and Commodity Contracts Intermediation and Brokerage,324832415,0.2909,94482366,0.8552,yes,BEA 2017 use table (PCE / commodity output): 523A00,,2/5
+30,5311,Lessors of Real Estate,349885033,0.2692,94199549,0.8625,yes,BEA 2017 use table (PCE / commodity output): 531HST+531ORE,BEA codes mix residential and commercial landlords,1/5 (+1 unclear)
+31,6216,Home Health Care Services,90280795,0.9992,90209478,0.8695,yes,BEA 2017 use table (PCE / commodity output): 621600,,
+32,4413,"Automotive Parts, Accessories, and Tire Retailers",138686386,0.645,89452719,0.8764,yes,Census 2022 class of customer,,0/5 (+1 unclear)
+33,5617,Services to Buildings and Dwellings,226044687,0.392,88609517,0.8833,yes,Census 2022 class of customer,,
+34,5222,Nondepository Credit Intermediation,716927023,0.1223,87647849,0.8901,yes,BEA 2017 use table (PCE / commodity output): 522A00,,3/5 (+1 unclear)
+35,2212,Natural Gas Distribution,182666159,0.397,72518465,0.8957,yes,Census 2022 class of customer,,
+36,7139,Other Amusement and Recreation Industries,77120293,0.9391,72425266,0.9013,yes,BEA 2017 use table (PCE / commodity output): 713900,,
+37,4453,"Beer, Wine, and Liquor Retailers",73752497,0.941,69401100,0.9067,no,Census 2022 class of customer,,
+38,5419,"Other Professional, Scientific, and Technical Services",129599270,0.487,63114844,0.9115,no,Census 2022 class of customer,,
+39,4551,Department Stores,60695753,0.998,60574361,0.9162,no,Census 2022 class of customer,,1/5 (+1 unclear)
+40,6215,Medical and Diagnostic Laboratories,81095630,0.6941,56289441,0.9206,no,BEA 2017 use table (PCE / commodity output): 621500,,
+41,4582,Shoe Retailers,56952789,0.964,54902489,0.9248,no,Census 2022 class of customer,,
+42,8121,Personal Care Services,54756173,0.9926,54349095,0.929,no,BEA 2017 use table (PCE / commodity output): 812100,,
+43,4583,"Jewelry, Luggage, and Leather Goods Retailers",57188177,0.937,53585322,0.9332,no,Census 2022 class of customer,,
+44,6233,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,49835122,0.9867,49173974,0.937,no,BEA 2017 use table (PCE / commodity output): 623A00,,
+45,4442,Lawn and Garden Equipment and Supplies Retailers,67075396,0.617,41385519,0.9402,no,Census 2022 class of customer,,1/2
+46,5162,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",300837239,0.1311,39454561,0.9432,no,BEA 2017 use table (PCE / commodity output): 515200+519130,BEA codes: cable/subscription programming + internet publishing,
+47,5615,Travel Arrangement and Reservation Services,69017444,0.55,37959594,0.9462,no,Census 2022 class of customer,,4/5
+48,6244,Child Care Services,38586675,0.9759,37655769,0.9491,no,BEA 2017 use table (PCE / commodity output): 624400,,
+49,4452,Specialty Food Retailers,42641626,0.87,37098215,0.952,no,Census 2022 class of customer,,
+50,7132,Gambling Industries,36844898,0.9974,36750605,0.9548,no,BEA 2017 use table (PCE / commodity output): 713200,,
+51,6219,Other Ambulatory Health Care Services,45259390,0.8108,36697241,0.9577,no,BEA 2017 use table (PCE / commodity output): 621900,,
+52,5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",208847722,0.164,34251026,0.9603,no,Census 2022 class of customer,,
+53,5321,Automotive Equipment Rental and Leasing,90750548,0.35,31762692,0.9628,no,Census 2022 class of customer,,1/5 (+1 unclear)
+54,8129,Other Personal Services,34687816,0.8824,30609004,0.9651,no,BEA 2017 use table (PCE / commodity output): 812900,,
+55,4572,Fuel Dealers,43318794,0.691,29933287,0.9674,no,Census 2022 class of customer,,
+56,4594,"Office Supplies, Stationery, and Gift Retailers",57147427,0.486,27773650,0.9696,no,Census 2022 class of customer,,
+57,7112,Spectator Sports,56259277,0.4611,25942420,0.9716,no,BEA 2017 use table (PCE / commodity output): 711200,,
+58,6232,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",25005352,0.9979,24952254,0.9735,no,BEA 2017 use table (PCE / commodity output): 623B00,,
+59,7131,Amusement Parks and Arcades,25672773,0.9685,24865310,0.9755,no,BEA 2017 use table (PCE / commodity output): 713100,,
+60,6116,Other Schools and Instruction,27640036,0.8641,23884100,0.9773,no,BEA 2017 use table (PCE / commodity output): 611B00,,
+61,8122,Death Care Services,23396061,1.0,23396061,0.9791,no,BEA 2017 use table (PCE / commodity output): 812200,,
+62,4595,Used Merchandise Retailers,24760611,0.896,22185507,0.9808,no,Census 2022 class of customer,,
+63,5223,Activities Related to Credit Intermediation,179878111,0.1223,21990982,0.9825,no,BEA 2017 use table (PCE / commodity output): 522A00,,4/5
+64,4812,Nonscheduled Air Transportation,38264460,0.5657,21645937,0.9842,no,BEA 2017 use table (PCE / commodity output): 481000,,
+65,5616,Investigation and Security Services,80744118,0.244,19701565,0.9857,no,Census 2022 class of customer,,
+66,4831,"Deep Sea, Coastal, and Great Lakes Water Transportation",43950000,0.4389,19290410,0.9872,no,BEA 2017 use table (PCE / commodity output): 483000,BEA code mixes cruise lines with freight shipping (understates household share),
+67,5121,Motion Picture and Video Industries,108616953,0.1674,18180403,0.9886,no,BEA 2017 use table (PCE / commodity output): 512100,,
+68,8123,Drycleaning and Laundry Services,31216215,0.4827,15066542,0.9898,no,BEA 2017 use table (PCE / commodity output): 812300,,
+69,4592,Book Retailers and News Dealers,15385017,0.926,14246526,0.9909,no,Census 2022 class of customer,,
+70,6114,Business Schools and Computer and Management Training,15252232,0.8641,13179644,0.9919,no,BEA 2017 use table (PCE / commodity output): 611B00,,
+71,5322,Consumer Goods Rental,22237420,0.5687,12646346,0.9929,no,BEA 2017 use table (PCE / commodity output): 532A00,,
+72,7113,"Promoters of Performing Arts, Sports, and Similar Events",33057040,0.3478,11497749,0.9938,no,BEA 2017 use table (PCE / commodity output): 711A00,,
+73,6117,Educational Support Services,12735784,0.8641,11005150,0.9946,no,BEA 2017 use table (PCE / commodity output): 611B00,,
+74,6115,Technical and Trade Schools,12170296,0.8641,10516504,0.9955,no,BEA 2017 use table (PCE / commodity output): 611B00,,
+75,2213,"Water, Sewage and Other Systems",19962733,0.475,9482298,0.9962,no,Census 2022 class of customer,,
+76,4853,Taxi and Limousine Service,18790121,0.4964,9327161,0.9969,no,BEA 2017 use table (PCE / commodity output): 485000,,2/5
+77,4593,Florists,10228263,0.902,9225893,0.9976,no,Census 2022 class of customer,,
+78,8114,Personal and Household Goods Repair and Maintenance,10911321,0.698,7616102,0.9982,no,Census 2022 class of customer,,
+79,4921,Couriers and Express Delivery Services,132312925,0.0573,7582955,0.9988,no,BEA 2017 use table (PCE / commodity output): 492000,,
+80,7212,RV (Recreational Vehicle) Parks and Recreational Camps,7961499,0.863,6870774,0.9993,no,Census 2022 class of customer,,
+81,6239,Other Residential Care Facilities,1931608,0.9979,1927506,0.9995,no,BEA 2017 use table (PCE / commodity output): 623B00,,
+82,8112,Electronic and Precision Equipment Repair and Maintenance,16664385,0.084,1399808,0.9996,no,Census 2022 class of customer,,
+83,4922,Local Messengers and Local Delivery,23569739,0.0573,1350800,0.9997,no,BEA 2017 use table (PCE / commodity output): 492000,,2/3
+84,4852,Interurban and Rural Bus Transportation,2014913,0.4964,1000175,0.9998,no,BEA 2017 use table (PCE / commodity output): 485000,,
+85,5323,General Rental Centers,3151403,0.283,891847,0.9998,no,Census 2022 class of customer,,
+86,5312,Offices of Real Estate Agents and Brokers,179408329,0.0045,814382,0.9999,no,BEA 2017 use table (PCE / commodity output): 531ORE,,1/5 (+1 unclear)
+87,5313,Activities Related to Real Estate,142922705,0.0045,648764,1.0,no,BEA 2017 use table (PCE / commodity output): 531ORE,,
+88,4872,"Scenic and Sightseeing Transportation, Water",2806148,0.0732,205357,1.0,no,BEA 2017 use table (PCE / commodity output): 48A000,same as 4871,
+89,5174,Satellite Telecommunications,7250817,0.025,181270,1.0,no,Census 2022 class of customer,,
+90,4871,"Scenic and Sightseeing Transportation, Land",1226946,0.0732,89789,1.0,no,BEA 2017 use table (PCE / commodity output): 48A000,BEA code mixes sightseeing with transport support services,
+91,4879,"Scenic and Sightseeing Transportation, Other",776596,0.0732,56832,1.0,no,BEA 2017 use table (PCE / commodity output): 48A000,same as 4871,
+92,5242,"Agencies, Brokerages, and Other Insurance Related Activities",495401882,0.0,0,1.0,no,BEA 2017 use table (PCE / commodity output): 524200,,3/5

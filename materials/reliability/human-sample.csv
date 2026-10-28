@@ -1,0 +1,54 @@
+position,doc_id,company,doc_type,stratum,weight
+1,HRB-03,H&R Block,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+2,BBY-01,Best Buy,t1-governing-terms,AI-specific B1 (all included),1.0000
+3,UNH-02,UnitedHealth Group,t1-governing-terms,"contract, binding, generic codes only",6.0714
+4,C-02,Citigroup,t1-governing-terms,"contract, not binding for the AI channel",4.3333
+5,BJS-01,BJ's Wholesale Club,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+6,LZ-01,LegalZoom,t3-dedicated-ai-doc,"contract, binding, has AI-specific code",3.5625
+7,TDUP-01,ThredUp,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+8,PUB-02,Publix,t4-in-product-microcopy,in-product microcopy,6.5000
+9,CASY-01,Casey's,t1-governing-terms,"contract, binding, generic codes only",6.0714
+10,TGT-02,Target,privacy-notice,privacy notice,8.1250
+11,LZ-03,LegalZoom,t2-site-terms,"contract, binding, generic codes only",6.0714
+12,EBAY-01,eBay,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+13,CMG-03,Chipotle,privacy-notice,privacy notice,8.1250
+14,EQR-01,Equity Residential,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+15,DGX-01,Quest Diagnostics,t1-governing-terms,"contract, not binding for the AI channel",4.3333
+16,WRBY-01,Warby Parker,t1-governing-terms,"contract, binding, generic codes only",6.0714
+17,MAR-02,Marriott,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+18,UPS-01,UPS,t1-governing-terms,"contract, binding, generic codes only",6.0714
+19,AAL-01,American,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+20,ULTA-01,Ulta Beauty,t1-governing-terms,AI-specific B1 (all included),1.0000
+21,RELY-01,Remitly Global,t1-governing-terms,"contract, binding, generic codes only",6.0714
+22,PINS-02,Pinterest,t4-in-product-microcopy,in-product microcopy,6.5000
+23,COUR-01,Coursera,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+24,TRP-01,Tripadvisor,t2-site-terms,AI-specific B1 (all included),1.0000
+25,TFC-01,Truist Financial,t1-governing-terms,"contract, binding, generic codes only",6.0714
+26,ROKU-01,Roku,t1-governing-terms,"contract, binding, generic codes only",6.0714
+27,CAR-02,Avis Budget Group,privacy-notice,privacy notice,8.1250
+28,MIK-01,Michaels,t1-governing-terms,"contract, binding, generic codes only",6.0714
+29,AAL-02,American,contract-of-carriage,"contract, not binding for the AI channel",4.3333
+30,WSM-01,Williams-Sonoma,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+31,ELV-01,Elevance Health,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+32,EBAY-02,eBay,privacy-notice,privacy notice,8.1250
+33,NI-01,NiSource,t1-governing-terms,"contract, binding, generic codes only",6.0714
+34,MTCH-01,Match Group,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+35,WMT-01,Walmart,t1-governing-terms,AI-specific B1 (all included),1.0000
+36,LOW-02,Lowe's,privacy-notice,privacy notice,8.1250
+37,T-04,AT&T,privacy-notice,privacy notice,8.1250
+38,WRBY-02,Warby Parker,privacy-notice,privacy notice,8.1250
+39,CMX-01,Comcast,t4-in-product-microcopy,in-product microcopy,6.5000
+40,DD-01,DoorDash,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+41,UAL-01,United,t2-site-terms,"contract, binding, generic codes only",6.0714
+42,GRY-02,Greystar,t1-governing-terms,"contract, not binding for the AI channel",4.3333
+43,EXP-01,Expedia,t3-dedicated-ai-doc,"contract, binding, has AI-specific code",3.5625
+44,LYV-01,Live Nation Entertainment,t1-governing-terms,"contract, binding, generic codes only",6.0714
+45,VZ-01,Verizon,t4-in-product-microcopy,in-product microcopy,6.5000
+46,MET-01,MetLife,t2-site-terms,"contract, binding, generic codes only",6.0714
+47,CI-01,The Cigna Group,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
+48,HIL-01,Hilton,t3-dedicated-ai-doc,"contract, not binding for the AI channel",4.3333
+49,CVS-04,CVS Health,t2-site-terms,"contract, not binding for the AI channel",4.3333
+50,FWON-01,Liberty Media,t1-governing-terms,"contract, binding, generic codes only",6.0714
+51,MAR-01,Marriott,t1-governing-terms,AI-specific B1 (all included),1.0000
+52,TMUS-04,T-Mobile US,privacy-notice,privacy notice,8.1250
+53,FID-01,Fidelity Investments,t1-governing-terms,"contract, binding, has AI-specific code",3.5625
